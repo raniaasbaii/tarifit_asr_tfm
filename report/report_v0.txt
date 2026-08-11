@@ -1,0 +1,45 @@
+Defined the task: Tarifit ASR with output in IRCAM-based Latin script, mainly focused on Al Hoceima speech.
+Built a metadata inventory of public YouTube and Instagram recordings from different content types.
+Downloaded available audio and documented unavailable/private sources instead of deleting them from the inventory.
+Standardized all usable audio to WAV, 16 kHz, mono.
+Selected 21 recordings totaling 5 h 29 m 30 s.
+Added three short female-speaker recordings to improve diversity in the training data.
+Assigned speaker_group_id values and ensured recordings sharing a speaker stayed in the same dataset split.
+Created a speaker-independent train/validation/test split.
+Tested Whisper Small on REC038; it detected Arabic, produced unsuitable Arabic-script output, and gave poor word boundaries.
+Replaced Whisper-based segmentation with Silero VAD.
+Solved environment compatibility problems by using Python 3.12 and numpy<2.
+Tuned VAD on REC038:
+500 ms silence produced excessive fragmentation.
+1000 ms silence produced better, more natural segments.
+Approved segmentation configuration vad_v1:
+minimum speech: 500 ms;
+minimum silence: 1000 ms;
+maximum segment: 15 s;
+padding: 200 ms.
+Segmented the full selected corpus into 2,223 segments, representing 5 h 03 m 31 s of detected speech.
+Manually reviewed segments and used two statuses: included and rejected.
+Final usable corpus:
+2,175 included segments;
+48 rejected segments;
+4 h 59 m 19 s usable speech.
+Final included segments by split:
+train: 1,696;
+validation: 289;
+test: 190.
+Kept rejected audio files for traceability rather than deleting them.
+Decided that orthographic normalization will use IRCAM Latin as its foundation and define consistent rules for spontaneous-speech phenomena and borrowed words.
+
+Designed a machine-assisted transcription pilot using 30 training segments selected from multiple speakers.
+Used the same audio segments across candidate models to ensure a fair qualitative comparison.
+Evaluated the candidates according to transcription accuracy, correction effort, script compatibility, omissions, hallucinations, and dialect substitutions.
+Tested the following candidate models:
+ayymen/stt_zgh_fastconformer_ctc_small;
+facebook/mms-1b-all with the Kabyle adapter;
+TutlaytAI/wav2vec2-berber;
+UBC-NLP/Simba-S;
+OpenAI Whisper.
+Found that some systems produced output in unsuitable scripts or introduced substantial language and dialect substitutions.
+Found that general multilingual models were not sufficiently reliable for direct Tarifit transcription assistance.
+Found that TutlaytAI/wav2vec2-berber produced the most useful drafts among the tested candidates, with many correctly recognized words and output directly in an IRCAM-compatible Latin script.
+Identified TutlaytAI/wav2vec2-berber as the provisional candidate for machine-assisted transcription.
