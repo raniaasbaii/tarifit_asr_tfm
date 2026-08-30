@@ -1,40 +1,40 @@
 segment_id,recording_id,speaker_group_id,dataset_split,segmentation_version,start_seconds,end_seconds,duration_seconds,audio_path,review_status,transcription,final_selection
-REC010_SEG0001,REC010,SPK001,train,vad_v1,0.12,1.232,1.112,data/processed/segments/REC010/REC010_SEG0001.wav,included,,no
-REC010_SEG0002,REC010,SPK001,train,vad_v1,1.232,16.048,14.816,data/processed/segments/REC010/REC010_SEG0002.wav,included,,no
-REC010_SEG0003,REC010,SPK001,train,vad_v1,16.048,21.696,5.648,data/processed/segments/REC010/REC010_SEG0003.wav,included,,no
-REC010_SEG0004,REC010,SPK001,train,vad_v1,21.696,36.192,14.496,data/processed/segments/REC010/REC010_SEG0004.wav,included,,no
-REC010_SEG0005,REC010,SPK001,train,vad_v1,36.192,48.448,12.256,data/processed/segments/REC010/REC010_SEG0005.wav,included,,no
-REC010_SEG0006,REC010,SPK001,train,vad_v1,48.448,55.176,6.728,data/processed/segments/REC010/REC010_SEG0006.wav,included,,no
-REC010_SEG0007,REC010,SPK001,train,vad_v1,55.512,64.648,9.136,data/processed/segments/REC010/REC010_SEG0007.wav,included,,no
-REC010_SEG0008,REC010,SPK001,train,vad_v1,64.664,73.968,9.304,data/processed/segments/REC010/REC010_SEG0008.wav,included,,no
-REC010_SEG0009,REC010,SPK001,train,vad_v1,73.968,83.72,9.752,data/processed/segments/REC010/REC010_SEG0009.wav,included,,no
-REC010_SEG0010,REC010,SPK001,train,vad_v1,84.152,88.904,4.752,data/processed/segments/REC010/REC010_SEG0010.wav,included,,no
-REC010_SEG0011,REC010,SPK001,train,vad_v1,90.104,96.456,6.352,data/processed/segments/REC010/REC010_SEG0011.wav,included,,no
-REC010_SEG0012,REC010,SPK001,train,vad_v1,96.696,105.864,9.168,data/processed/segments/REC010/REC010_SEG0012.wav,included,,no
-REC010_SEG0013,REC010,SPK001,train,vad_v1,105.976,114.984,9.008,data/processed/segments/REC010/REC010_SEG0013.wav,included,,no
-REC010_SEG0014,REC010,SPK001,train,vad_v1,116.024,120.68,4.656,data/processed/segments/REC010/REC010_SEG0014.wav,included,,no
-REC010_SEG0015,REC010,SPK001,train,vad_v1,121.112,133.0,11.888,data/processed/segments/REC010/REC010_SEG0015.wav,included,,no
-REC010_SEG0016,REC010,SPK001,train,vad_v1,134.136,139.08,4.944,data/processed/segments/REC010/REC010_SEG0016.wav,included,,no
-REC010_SEG0017,REC010,SPK001,train,vad_v1,139.608,153.936,14.328,data/processed/segments/REC010/REC010_SEG0017.wav,included,,no
-REC010_SEG0018,REC010,SPK001,train,vad_v1,153.936,164.864,10.928,data/processed/segments/REC010/REC010_SEG0018.wav,included,,no
-REC010_SEG0019,REC010,SPK001,train,vad_v1,164.864,173.0,8.136,data/processed/segments/REC010/REC010_SEG0019.wav,included,,no
-REC010_SEG0020,REC010,SPK001,train,vad_v1,173.176,181.64,8.464,data/processed/segments/REC010/REC010_SEG0020.wav,included,,no
-REC010_SEG0021,REC010,SPK001,train,vad_v1,181.656,189.896,8.24,data/processed/segments/REC010/REC010_SEG0021.wav,included,,no
-REC010_SEG0022,REC010,SPK001,train,vad_v1,190.328,204.864,14.536,data/processed/segments/REC010/REC010_SEG0022.wav,included,,no
-REC010_SEG0023,REC010,SPK001,train,vad_v1,204.864,213.32,8.456,data/processed/segments/REC010/REC010_SEG0023.wav,included,,no
-REC010_SEG0024,REC010,SPK001,train,vad_v1,213.976,223.624,9.648,data/processed/segments/REC010/REC010_SEG0024.wav,included,,no
-REC010_SEG0025,REC010,SPK001,train,vad_v1,223.896,229.8,5.904,data/processed/segments/REC010/REC010_SEG0025.wav,included,,no
-REC010_SEG0026,REC010,SPK001,train,vad_v1,231.096,241.608,10.512,data/processed/segments/REC010/REC010_SEG0026.wav,included,,no
-REC010_SEG0027,REC010,SPK001,train,vad_v1,242.648,248.008,5.36,data/processed/segments/REC010/REC010_SEG0027.wav,included,,no
-REC010_SEG0028,REC010,SPK001,train,vad_v1,248.76,259.752,10.992,data/processed/segments/REC010/REC010_SEG0028.wav,included,,no
-REC010_SEG0029,REC010,SPK001,train,vad_v1,260.248,263.752,3.504,data/processed/segments/REC010/REC010_SEG0029.wav,included,,no
-REC010_SEG0030,REC010,SPK001,train,vad_v1,264.12,278.088,13.968,data/processed/segments/REC010/REC010_SEG0030.wav,included,,no
-REC010_SEG0031,REC010,SPK001,train,vad_v1,278.552,279.496,0.944,data/processed/segments/REC010/REC010_SEG0031.wav,included,,no
-REC010_SEG0032,REC010,SPK001,train,vad_v1,280.728,285.256,4.528,data/processed/segments/REC010/REC010_SEG0032.wav,included,,no
-REC010_SEG0033,REC010,SPK001,train,vad_v1,285.976,300.424,14.448,data/processed/segments/REC010/REC010_SEG0033.wav,included,,no
-REC010_SEG0034,REC010,SPK001,train,vad_v1,300.568,312.712,12.144,data/processed/segments/REC010/REC010_SEG0034.wav,included,,no
-REC010_SEG0035,REC010,SPK001,train,vad_v1,313.304,326.888,13.584,data/processed/segments/REC010/REC010_SEG0035.wav,included,,no
-REC010_SEG0036,REC010,SPK001,train,vad_v1,327.928,331.24,3.312,data/processed/segments/REC010/REC010_SEG0036.wav,included,,no
+REC010_SEG0001,REC010,SPK001,train,vad_v1,0.12,1.232,1.112,data/processed/segments/REC010/REC010_SEG0001.wav,included,iwa anebḍam,yes
+REC010_SEG0002,REC010,SPK001,train,vad_v1,1.232,16.048,14.816,data/processed/segments/REC010/REC010_SEG0002.wav,included,ṣaḥit wami tusim ḍa ɣa vidyo wis ɛecra gi vidyo ya anessiwer x iqbiren x uqbir anessiwer x iwḍan mizi gin iqbiren gi ṭemmura nneɣ ṭamuarṭ nneɣ,yes
+REC010_SEG0003,REC010,SPK001,train,vad_v1,16.048,21.696,5.648,data/processed/segments/REC010/REC010_SEG0003.wav,included,x mux tirin x mux teggen iwḍan iqbiren ak wayawya,yes
+REC010_SEG0004,REC010,SPK001,train,vad_v1,21.696,36.192,14.496,data/processed/segments/REC010/REC010_SEG0004.wav,included,u ɛaweḍ a nessiwar xmi tirin iqbiren mux teggen iwḍan azzun imukan nsen ḥema aḍgen ak wayawya aqbir u ɛawed gi vidyo ya a nessiwer x ismawen minzi attas n iwḍan,yes
+REC010_SEG0005,REC010,SPK001,train,vad_v1,36.192,48.448,12.256,data/processed/segments/REC010/REC010_SEG0005.wav,included,uɣren ci ḥemken teḥsaben ixefensen ḍ cey neṭnin ussinen ura ussinen waxa ḍ ismawen n imezwura nsen ussinen ismawen n iwḍan n bara,yes
+REC010_SEG0006,REC010,SPK001,train,vad_v1,48.448,55.176,6.728,data/processed/segments/REC010/REC010_SEG0006.wav,included,teftufen waha teggen zeg teggen ciki s ḍeɣyer xa zi mizi ḍas nniɣ adggeɣ vidyo ya ḥma,yes
+REC010_SEG0007,REC010,SPK001,train,vad_v1,55.512,64.648,9.136,data/processed/segments/REC010/REC010_SEG0007.wav,included,ḥma aḍ ssnen iwḍan mux ḍas n qqan iwḍan gi ṭmura nneɣ ḍ iwḍan n bara,yes
+REC010_SEG0008,REC010,SPK001,train,vad_v1,64.664,73.968,9.304,data/processed/segments/REC010/REC010_SEG0008.wav,included,u ɛawaḍ zi ssa agayta mara ṭufimay gi vidyawaṭ ya ssawareɣ s rebɛaḍ n wawaren wen tessinem ad tessnem mix qqaɣ awaren nni,yes
+REC010_SEG0009,REC010,SPK001,train,vad_v1,73.968,83.72,9.752,data/processed/segments/REC010/REC010_SEG0009.wav,included,bac ataf zi ssa agayta udji aday ṭeqqam qa cek ussined ci lla ixsa aḍay ṭfahmem mizi qa rebɛaḍ wawaren gi vidyawaṭ a,yes
+REC010_SEG0010,REC010,SPK001,train,vad_v1,84.152,88.904,4.752,data/processed/segments/REC010/REC010_SEG0010.wav,included,mix anessiwer x manaya waxxa eḍfamayd,yes
+REC010_SEG0011,REC010,SPK001,train,vad_v1,90.104,96.456,6.352,data/processed/segments/REC010/REC010_SEG0011.wav,included,a rux necc ugiɣ ad ssiwreɣ x ṭamezgarut n iwḍan qqaɛ,yes
+REC010_SEG0012,REC010,SPK001,train,vad_v1,96.696,105.864,9.168,data/processed/segments/REC010/REC010_SEG0012.wav,included,rux waxxa umnaɣ zi ad nni umnaɣ reqwaḍ ni udji bu ḍ cɣer inu nec ussiwereɣ ci x rweqt n adam wami ɣa,yes
+REC010_SEG0013,REC010,SPK001,train,vad_v1,105.976,114.984,9.008,data/processed/segments/REC010/REC010_SEG0013.wav,included,niɣ reqwad wami ɣa bḍan iwḍan lla necc mix iɣa ssiwreɣ necc aḍ ssiwreɣ x mux bḍan iwḍan gi ṭmura nneɣ,yes
+REC010_SEG0014,REC010,SPK001,train,vad_v1,116.024,120.68,4.656,data/processed/segments/REC010/REC010_SEG0014.wav,included,fahmeḍ udji ci anaḥ a ṭamezgarut qqaɛ waxxa,yes
+REC010_SEG0015,REC010,SPK001,train,vad_v1,121.112,133.0,11.888,data/processed/segments/REC010/REC010_SEG0015.wav,included,ṭimura nneɣ ira exxrant ṭammurṭ nneɣ ira ṭexxra amezgaru ira ḍin ira ḍin rebḥa ira ḍin ejdi ira ḍin rɣabeṭ ira ḍin rebɛad n ṭimura tibatayin ayenni waha,yes
+REC010_SEG0016,REC010,SPK001,train,vad_v1,134.136,139.08,4.944,data/processed/segments/REC010/REC010_SEG0016.wav,included,xa mizi ibedda mizi ibedda,yes
+REC010_SEG0017,REC010,SPK001,train,vad_v1,139.608,153.936,14.328,data/processed/segments/REC010/REC010_SEG0017.wav,included,ijjen qumn ijjen n marka n iwḍan beddan s familiyaṭ i gixran tammurṭ nneɣni waxxa tiri n familiyaṭ rbɛad n swayeɛ s iḥamucen rbɛad n swayeɛ s bra iḥamucen,yes
+REC010_SEG0018,REC010,SPK001,train,vad_v1,153.936,164.864,10.928,data/processed/segments/REC010/REC010_SEG0018.wav,included,ggʷan zi gi ijjen n ṭammurṭ mizi tafen ḍin amenɣi tafen ḍin itwekkes erqanun tafen iwḍan nni twaddjen tusma yqeɛsen ddec xa,yes
+REC010_SEG0019,REC010,SPK001,train,vad_v1,164.864,173.0,8.136,data/processed/segments/REC010/REC010_SEG0019.wav,included,niɣ qebren zi ddec uxa tafen neṭnin s ixefessen uzemma aḍ din iɛicen niɣ aḍ ɛicen ɛad ṭawa nsen uxa xedjan ṭammurṭ nni,yes
+REC010_SEG0020,REC010,SPK001,train,vad_v1,173.176,181.64,8.464,data/processed/segments/REC010/REC010_SEG0020.wav,included,rux ṭammurṭ nneɣ imekken umi ira uḍin ḍi bu iwḍan ira ḍin ɣa ruḥuc waha d ufin familyaṭ nni imezgura wami ammen ḍa i ɣa neqqim ṭamurt ṭtabbaḥṭ,yes
+REC010_SEG0021,REC010,SPK001,train,vad_v1,181.656,189.896,8.24,data/processed/segments/REC010/REC010_SEG0021.wav,included,udsen nnaneɣ eɣzan yuḍsaneɣ rebḥa manis d ɣa negma u safi,yes
+REC010_SEG0022,REC010,SPK001,train,vad_v1,190.328,204.864,14.536,data/processed/segments/REC010/REC010_SEG0022.wav,included,uḍfen tammurṭ nni qa ta aɛemma n timmura ammen ituqiɛ waxxa familya tiri abas ḍ yemmas twasemma ṭamɣaṭ ḍ wagaz tejjand iḥamucen nsen rux mara din ɣa cin familyaṭ mrra,yes
+REC010_SEG0023,REC010,SPK001,train,vad_v1,204.864,213.32,8.456,data/processed/segments/REC010/REC010_SEG0023.wav,included,teggen ṭarwa nsen tessarayend ṭarwa nsen bac aḍ emsemraken amja ɣa ṭuqeɛ manayenni atiri familya tameqqrant,yes
+REC010_SEG0024,REC010,SPK001,train,vad_v1,213.976,223.624,9.648,data/processed/segments/REC010/REC010_SEG0024.wav,included,anini udji ci ɣak abak ḍ yemmak waha lla ɣak ṭawa ɛzizek ṭawa n xwarek jwan jwan atafeḍ asqend ɣak,yes
+REC010_SEG0025,REC010,SPK001,train,vad_v1,223.896,229.8,5.904,data/processed/segments/REC010/REC010_SEG0025.wav,included,ci ijjen ssacet waxxa takkuḥt xa ammen iwḍan teggen familya d tameqrant,yes
+REC010_SEG0026,REC010,SPK001,train,vad_v1,231.096,241.608,10.512,data/processed/segments/REC010/REC010_SEG0026.wav,included,amji ɣafen ammen xa aqen mliḥ uṭen itriḍu ura ḍ ijj attas n familyaṭ timeqranin teggen mara dca amdji ɣa ggen dca,yes
+REC010_SEG0027,REC010,SPK001,train,vad_v1,242.648,248.008,5.36,data/processed/segments/REC010/REC010_SEG0027.wav,included,atafeḍ iwḍan ɛad tessnen ayawya ɛad tessnen ayawya ɛad temsemeraken,yes
+REC010_SEG0028,REC010,SPK001,train,vad_v1,248.76,259.752,10.992,data/processed/segments/REC010/REC010_SEG0028.wav,included,safi muru uṭeniriḍi ura d ijj temɣurn ḥetta ategged amya atafeḍ dca imɣa axas ugan ɛawed ijjen rebɛad n familyaṭ familyaṭ nneɣni teggen ɛawed dca nsen waḥeḍsen,yes
+REC010_SEG0029,REC010,SPK001,train,vad_v1,260.248,263.752,3.504,data/processed/segments/REC010/REC010_SEG0029.wav,included,uxa ammen amdji din attas n dcuraṭ,yes
+REC010_SEG0030,REC010,SPK001,train,vad_v1,264.12,278.088,13.968,data/processed/segments/REC010/REC010_SEG0030.wav,included,ssnen ira teɛnan i wayawya ɣa cwitti waha uxa tekksen ak wayawya smunan dcuraṭ nni dcuraṭ nni mdji ɣa munen uxa teggen awar ḍ lqanun teggen mara,yes
+REC010_SEG0031,REC010,SPK001,train,vad_v1,278.552,279.496,0.944,data/processed/segments/REC010/REC010_SEG0031.wav,included,aqbir,yes
+REC010_SEG0032,REC010,SPK001,train,vad_v1,280.728,285.256,4.528,data/processed/segments/REC010/REC010_SEG0032.wav,included,imeqqan aqbir ssedj mliḥ s ṭmaziɣt aqbir zɛma qebren x wayawya,yes
+REC010_SEG0033,REC010,SPK001,train,vad_v1,285.976,300.424,14.448,data/processed/segments/REC010/REC010_SEG0033.wav,included,min qebren zi wayawya qebren zi wayawya ad ɛeddan x iberiḍen wayawya aḍ ɛeddan x ḍmura n wayawya ur tenɛeddan ci x wayawya aḍ teggen tekksen ak wayawya mirmi ɣa ggen bursaṭ bursa neqqas necnin s ṭmaziɣt zeɛma essuq,yes
+REC010_SEG0034,REC010,SPK001,train,vad_v1,300.568,312.712,12.144,data/processed/segments/REC010/REC010_SEG0034.wav,included,essuq ḍ bu nnaɛeft neccin neqaras bursa tekksen ak wayawya mermi ɣa ggen bursaṭ tekksen ak wayawya mux ɣa zenzen ṭammurt ni mux atmubeddaren ṭimmura ḍwenni umi qqaren aqbir,yes
+REC010_SEG0035,REC010,SPK001,train,vad_v1,313.304,326.888,13.584,data/processed/segments/REC010/REC010_SEG0035.wav,included,mara munen attas n dcuraṭ mara s wawar ḍ rqanun waxxa amedji ɣa imɣar aqbir nni xa ḍin attas n iwdan uxa yeɛda ijjen miqddar n iwdan ataf iwdan utessinen ci ataf uqqimen ci tesnen ayawya,yes
+REC010_SEG0036,REC010,SPK001,train,vad_v1,327.928,331.24,3.312,data/processed/segments/REC010/REC010_SEG0036.wav,included,zi ssin agayta min ytuqeɛen imma,yes
 REC010_SEG0037,REC010,SPK001,train,vad_v1,331.8,345.64,13.84,data/processed/segments/REC010/REC010_SEG0037.wav,included,,no
 REC010_SEG0038,REC010,SPK001,train,vad_v1,345.752,348.392,2.64,data/processed/segments/REC010/REC010_SEG0038.wav,included,,no
 REC010_SEG0039,REC010,SPK001,train,vad_v1,348.728,362.32,13.592,data/processed/segments/REC010/REC010_SEG0039.wav,included,,no
@@ -78,19 +78,19 @@ REC010_SEG0076,REC010,SPK001,train,vad_v1,665.664,679.552,13.888,data/processed/
 REC010_SEG0077,REC010,SPK001,train,vad_v1,679.552,681.576,2.024,data/processed/segments/REC010/REC010_SEG0077.wav,included,,no
 REC010_SEG0078,REC010,SPK001,train,vad_v1,682.168,695.304,13.136,data/processed/segments/REC010/REC010_SEG0078.wav,included,,no
 REC010_SEG0079,REC010,SPK001,train,vad_v1,695.928,700.279,4.351,data/processed/segments/REC010/REC010_SEG0079.wav,included,,no
-REC011_SEG0001,REC011,SPK001,train,vad_v1,0.312,11.272,10.96,data/processed/segments/REC011/REC011_SEG0001.wav,included,,no
-REC011_SEG0002,REC011,SPK001,train,vad_v1,11.48,22.344,10.864,data/processed/segments/REC011/REC011_SEG0002.wav,included,,no
-REC011_SEG0003,REC011,SPK001,train,vad_v1,22.584,33.104,10.52,data/processed/segments/REC011/REC011_SEG0003.wav,included,,no
-REC011_SEG0004,REC011,SPK001,train,vad_v1,33.104,40.168,7.064,data/processed/segments/REC011/REC011_SEG0004.wav,included,,no
-REC011_SEG0005,REC011,SPK001,train,vad_v1,40.664,54.184,13.52,data/processed/segments/REC011/REC011_SEG0005.wav,included,,no
-REC011_SEG0006,REC011,SPK001,train,vad_v1,54.2,60.712,6.512,data/processed/segments/REC011/REC011_SEG0006.wav,included,,no
-REC011_SEG0007,REC011,SPK001,train,vad_v1,62.008,70.088,8.08,data/processed/segments/REC011/REC011_SEG0007.wav,included,,no
-REC011_SEG0008,REC011,SPK001,train,vad_v1,70.328,79.328,9.0,data/processed/segments/REC011/REC011_SEG0008.wav,included,,no
-REC011_SEG0009,REC011,SPK001,train,vad_v1,79.328,89.16,9.832,data/processed/segments/REC011/REC011_SEG0009.wav,included,,no
-REC011_SEG0010,REC011,SPK001,train,vad_v1,89.336,101.832,12.496,data/processed/segments/REC011/REC011_SEG0010.wav,included,,no
-REC011_SEG0011,REC011,SPK001,train,vad_v1,102.264,113.96,11.696,data/processed/segments/REC011/REC011_SEG0011.wav,included,,no
-REC011_SEG0012,REC011,SPK001,train,vad_v1,114.328,123.424,9.096,data/processed/segments/REC011/REC011_SEG0012.wav,included,,no
-REC011_SEG0013,REC011,SPK001,train,vad_v1,123.424,136.84,13.416,data/processed/segments/REC011/REC011_SEG0013.wav,included,,no
+REC011_SEG0001,REC011,SPK001,train,vad_v1,0.312,11.272,10.96,data/processed/segments/REC011/REC011_SEG0001.wav,included,waxxa ruxa qa anessiwer x ismawen n iqbiren i ɣaneɣ gi ṭmura nneɣ uṭen teggeɣ ci qaɛ qaɛ maca aḍgeɣ ṭenni ṭimeqqranin qqaɛ ṭenni inessen qaɛ,yes
+REC011_SEG0002,REC011,SPK001,train,vad_v1,11.48,22.344,10.864,data/processed/segments/REC011/REC011_SEG0002.wav,included,sinn iqbiren ikkuḥen imken axasen nsseɛḍa ciḥaja n wawar imken imken aɣasen nexza ciḥaja imken,yes
+REC011_SEG0003,REC011,SPK001,train,vad_v1,22.584,33.104,10.52,data/processed/segments/REC011/REC011_SEG0003.wav,included,axasen dnawi caḥaja wawar waha maca ci nneɣni a nessiwer x iqbiren imeqqranen waxxa x iqbiren nni imeqqranen tiqebari nni nsen iksend aḍixer waxxa d tinni,yes
+REC011_SEG0004,REC011,SPK001,train,vad_v1,33.104,40.168,7.064,data/processed/segments/REC011/REC011_SEG0004.wav,included,uxissen nessiwer ci gi vidyo ya mizi ugḍeɣ aḍ ɛeḍreɣ attas di wawar waxxa,yes
+REC011_SEG0005,REC011,SPK001,train,vad_v1,40.664,54.184,13.52,data/processed/segments/REC011/REC011_SEG0005.wav,included,aqbir ḍamezgaru minzi ɣa bḍiɣ ad bḍiɣ s ayṭwayaɣer ayṭwayaɣer qaɛ snenṭen attas ɛizzen xasen ayṭwayaɣer ḍin rebɛaḍiṭ mellenṭen w iwa ɛad rux kur ijj,yes
+REC011_SEG0006,REC011,SPK001,train,vad_v1,54.2,60.712,6.512,data/processed/segments/REC011/REC011_SEG0006.wav,included,maca ijjen n mesrayṭ ixessa a tessnem mara xzard a umezruy n iwḍan nneɣ atafeḍ,yes
+REC011_SEG0007,REC011,SPK001,train,vad_v1,62.008,70.088,8.08,data/processed/segments/REC011/REC011_SEG0007.wav,included,qqaɛ iwḍan waxxa bnaḍem ḍaqerɛi niɣ ḍ ukebḍani ḍ uznasi mani ma is d ikka atafeḍ l assel nsen,yes
+REC011_SEG0008,REC011,SPK001,train,vad_v1,70.328,79.328,9.0,data/processed/segments/REC011/REC011_SEG0008.wav,included,zi ayṭwayaɣer qaɛ ṭiqebbarin nneɣni kkind zi ayṭwayaɣer ayṭwayaɣer i edjan ṭaqbic ṭamezgarut,yes
+REC011_SEG0009,REC011,SPK001,train,vad_v1,79.328,89.16,9.832,data/processed/segments/REC011/REC011_SEG0009.wav,included,i dyuṭfen gi ṭammurt mani ntiri qqaɛ yaɛni cek mara ṭufiḍ ixfinek d uṭemsaman yih aqbir inek d uṭemsaman maca mara ṭɛeqbeḍ,yes
+REC011_SEG0010,REC011,SPK001,train,vad_v1,89.336,101.832,12.496,data/processed/segments/REC011/REC011_SEG0010.wav,included,a ṭmezaruut qqaɛ atafed ḍawayaɣer rad cek ayṭ tuzin amenniɣni ayṭsɛiḍ igzennayen imeḍarsen ayṭbu qaɛ qaɛ ṭiqebbarin nni kind zi ayṭwayaɣer,yes
+REC011_SEG0011,REC011,SPK001,train,vad_v1,102.264,113.96,11.696,data/processed/segments/REC011/REC011_SEG0011.wav,included,maca wami ṭeɛḍa rweqṭ amux ḍakum nniɣ xumezgaru zi ɣa temɣa aqbir uxa tekkent zeggs ṭiqebbarin uxa ṭiqebbarin nni teggen iqbiren nni w ixfensen,yes
+REC011_SEG0012,REC011,SPK001,train,vad_v1,114.328,123.424,9.096,data/processed/segments/REC011/REC011_SEG0012.wav,included,xa zi ssin ydekkin ṭiqebarin nneɣni n ṭemsaman ayṭuwzin imeḍarsen maca qa amenni ytaḥ,yes
+REC011_SEG0013,REC011,SPK001,train,vad_v1,123.424,136.84,13.416,data/processed/segments/REC011/REC011_SEG0013.wav,included,waxxa ṭebḍa zi ayṭwayeɣer rux rad iwdan nneɣni gin aqbir nsen gin rqanun nsen ggin awar nsen uxa ammen waxxa neccin qa nbḍa s ayṭwayaɣer waxxa ijjen ṭeqqaḍas,yes
 REC011_SEG0014,REC011,SPK001,train,vad_v1,136.888,141.192,4.304,data/processed/segments/REC011/REC011_SEG0014.wav,included,,no
 REC011_SEG0015,REC011,SPK001,train,vad_v1,142.104,146.824,4.72,data/processed/segments/REC011/REC011_SEG0015.wav,included,,no
 REC011_SEG0016,REC011,SPK001,train,vad_v1,148.472,149.704,1.232,data/processed/segments/REC011/REC011_SEG0016.wav,included,,no
@@ -193,37 +193,37 @@ REC011_SEG0112,REC011,SPK001,train,vad_v1,1001.4,1004.52,3.12,data/processed/seg
 REC011_SEG0113,REC011,SPK001,train,vad_v1,1006.104,1007.528,1.424,data/processed/segments/REC011/REC011_SEG0113.wav,rejected,,no
 REC011_SEG0114,REC011,SPK001,train,vad_v1,1008.056,1021.504,13.448,data/processed/segments/REC011/REC011_SEG0114.wav,included,,no
 REC012_SEG0001,REC012,SPK001,train,vad_v1,0.344,1.64,1.296,data/processed/segments/REC012/REC012_SEG0001.wav,rejected,,no
-REC012_SEG0002,REC012,SPK001,train,vad_v1,2.104,16.104,14.0,data/processed/segments/REC012/REC012_SEG0002.wav,included,,no
-REC012_SEG0003,REC012,SPK001,train,vad_v1,16.312,23.208,6.896,data/processed/segments/REC012/REC012_SEG0003.wav,included,,no
-REC012_SEG0004,REC012,SPK001,train,vad_v1,23.736,35.624,11.888,data/processed/segments/REC012/REC012_SEG0004.wav,included,,no
-REC012_SEG0005,REC012,SPK001,train,vad_v1,35.832,42.672,6.84,data/processed/segments/REC012/REC012_SEG0005.wav,included,,no
-REC012_SEG0006,REC012,SPK001,train,vad_v1,42.672,56.456,13.784,data/processed/segments/REC012/REC012_SEG0006.wav,included,,no
-REC012_SEG0007,REC012,SPK001,train,vad_v1,59.736,64.328,4.592,data/processed/segments/REC012/REC012_SEG0007.wav,included,,no
-REC012_SEG0008,REC012,SPK001,train,vad_v1,65.464,77.928,12.464,data/processed/segments/REC012/REC012_SEG0008.wav,included,,no
-REC012_SEG0009,REC012,SPK001,train,vad_v1,78.392,84.648,6.256,data/processed/segments/REC012/REC012_SEG0009.wav,included,,no
-REC012_SEG0010,REC012,SPK001,train,vad_v1,87.096,92.296,5.2,data/processed/segments/REC012/REC012_SEG0010.wav,included,,no
-REC012_SEG0011,REC012,SPK001,train,vad_v1,93.08,95.336,2.256,data/processed/segments/REC012/REC012_SEG0011.wav,included,,no
-REC012_SEG0012,REC012,SPK001,train,vad_v1,96.184,110.28,14.096,data/processed/segments/REC012/REC012_SEG0012.wav,included,,no
-REC012_SEG0013,REC012,SPK001,train,vad_v1,110.296,111.368,1.072,data/processed/segments/REC012/REC012_SEG0013.wav,included,,no
-REC012_SEG0014,REC012,SPK001,train,vad_v1,112.024,122.216,10.192,data/processed/segments/REC012/REC012_SEG0014.wav,included,,no
-REC012_SEG0015,REC012,SPK001,train,vad_v1,122.712,129.768,7.056,data/processed/segments/REC012/REC012_SEG0015.wav,included,,no
-REC012_SEG0016,REC012,SPK001,train,vad_v1,132.44,142.568,10.128,data/processed/segments/REC012/REC012_SEG0016.wav,included,,no
-REC012_SEG0017,REC012,SPK001,train,vad_v1,145.88,156.872,10.992,data/processed/segments/REC012/REC012_SEG0017.wav,included,,no
-REC012_SEG0018,REC012,SPK001,train,vad_v1,157.88,165.032,7.152,data/processed/segments/REC012/REC012_SEG0018.wav,included,,no
-REC012_SEG0019,REC012,SPK001,train,vad_v1,165.912,171.112,5.2,data/processed/segments/REC012/REC012_SEG0019.wav,included,,no
-REC012_SEG0020,REC012,SPK001,train,vad_v1,172.376,176.328,3.952,data/processed/segments/REC012/REC012_SEG0020.wav,included,,no
-REC012_SEG0021,REC012,SPK001,train,vad_v1,177.688,184.352,6.664,data/processed/segments/REC012/REC012_SEG0021.wav,included,,no
-REC012_SEG0022,REC012,SPK001,train,vad_v1,184.352,198.656,14.304,data/processed/segments/REC012/REC012_SEG0022.wav,included,,no
-REC012_SEG0023,REC012,SPK001,train,vad_v1,198.656,201.864,3.208,data/processed/segments/REC012/REC012_SEG0023.wav,included,,no
-REC012_SEG0024,REC012,SPK001,train,vad_v1,202.232,215.488,13.256,data/processed/segments/REC012/REC012_SEG0024.wav,included,,no
-REC012_SEG0025,REC012,SPK001,train,vad_v1,215.488,221.224,5.736,data/processed/segments/REC012/REC012_SEG0025.wav,included,,no
-REC012_SEG0026,REC012,SPK001,train,vad_v1,221.88,231.752,9.872,data/processed/segments/REC012/REC012_SEG0026.wav,included,,no
-REC012_SEG0027,REC012,SPK001,train,vad_v1,232.376,243.272,10.896,data/processed/segments/REC012/REC012_SEG0027.wav,included,,no
-REC012_SEG0028,REC012,SPK001,train,vad_v1,245.272,246.504,1.232,data/processed/segments/REC012/REC012_SEG0028.wav,included,,no
-REC012_SEG0029,REC012,SPK001,train,vad_v1,247.32,256.648,9.328,data/processed/segments/REC012/REC012_SEG0029.wav,included,,no
-REC012_SEG0030,REC012,SPK001,train,vad_v1,257.208,272.016,14.808,data/processed/segments/REC012/REC012_SEG0030.wav,included,,no
-REC012_SEG0031,REC012,SPK001,train,vad_v1,272.016,279.848,7.832,data/processed/segments/REC012/REC012_SEG0031.wav,included,,no
-REC012_SEG0032,REC012,SPK001,train,vad_v1,280.28,291.848,11.568,data/processed/segments/REC012/REC012_SEG0032.wav,included,,no
+REC012_SEG0002,REC012,SPK001,train,vad_v1,2.104,16.104,14.0,data/processed/segments/REC012/REC012_SEG0002.wav,included,ḍa gin beɛda teswaṭ n irumyen ɣasen izakuken ḍibarkanen ḍicemraren ɣasen iɛecman ḍibarkanen ṭimɣarin nsen teḍhan amux djan gi ṭmura n irumyen,yes
+REC012_SEG0003,REC012,SPK001,train,vad_v1,16.312,23.208,6.896,data/processed/segments/REC012/REC012_SEG0003.wav,included,qa raḍ wa d teswaṭ n filem aqa beɛda ginas yteḍha beɛda am irumyen nican,yes
+REC012_SEG0004,REC012,SPK001,train,vad_v1,23.736,35.624,11.888,data/processed/segments/REC012/REC012_SEG0004.wav,included,aqa raḍ wa ijjen filem ginṭ yellah mux teggin cin imken nayen iseggʷasen ma d traṭa iseggʷasen zi ggʷami i ṭeggin xa wami cceḍkan attas n iwḍan,yes
+REC012_SEG0005,REC012,SPK001,train,vad_v1,35.832,42.672,6.84,data/processed/segments/REC012/REC012_SEG0005.wav,included,eṣpunya ifransisen iwḍan n purtugal ituakiyen iwḍan am necc cceḍkan,yes
+REC012_SEG0006,REC012,SPK001,train,vad_v1,42.672,56.456,13.784,data/processed/segments/REC012/REC012_SEG0006.wav,included,xa wwinasend mumetṭil beɛda qa ytawid ggurumi nican udwin ci alimani ɣas azakuk ḍ azzuggʷɣ ḍarrubiyu ḍasemmam,yes
+REC012_SEG0007,REC012,SPK001,train,vad_v1,59.736,64.328,4.592,data/processed/segments/REC012/REC012_SEG0007.wav,included,rux anessiwer x ilimanyen ḥma atessned immi qqrn ilimanyen,yes
+REC012_SEG0008,REC012,SPK001,train,vad_v1,65.464,77.928,12.464,data/processed/segments/REC012/REC012_SEG0008.wav,included,ilimanyen neṭni deɣya an tɛeqreḍ ɣasen azakuk ḍ arrubiyu niɣ ḍrus idssen atafeḍ ɣasen azakuk ḍ acehba niɣ ḍazeggʷaɣ,yes
+REC012_SEG0009,REC012,SPK001,train,vad_v1,78.392,84.648,6.256,data/processed/segments/REC012/REC012_SEG0009.wav,included,mara ḍawṭem qaḍas alimani mara tawṭent qadas ttalimaniṭ attas,yes
+REC012_SEG0010,REC012,SPK001,train,vad_v1,87.096,92.296,5.2,data/processed/segments/REC012/REC012_SEG0010.wav,included,attas ilimanyen niɣ tilimanyen rux min teɛnan iwḍana may tirin,yes
+REC012_SEG0011,REC012,SPK001,train,vad_v1,93.08,95.336,2.256,data/processed/segments/REC012/REC012_SEG0011.wav,included,eḥqa,yes
+REC012_SEG0012,REC012,SPK001,train,vad_v1,96.184,110.28,14.096,data/processed/segments/REC012/REC012_SEG0012.wav,included,ilimanyan rad niṭnin ɣasen ismawen attas ilimanyen udji ci nesniṭen s ilimanyen waha raḍ neṭni qqanasan ijarmiqen niɣ ijarmanen jermanik niɣ,yes
+REC012_SEG0013,REC012,SPK001,train,vad_v1,110.296,111.368,1.072,data/processed/segments/REC012/REC012_SEG0013.wav,included,xer maanen,yes
+REC012_SEG0014,REC012,SPK001,train,vad_v1,112.024,122.216,10.192,data/processed/segments/REC012/REC012_SEG0014.wav,included,ilimanyen ijarmiqen nniɣ ijarmanen ḍazzud ad t itaɛzuḍ s gellinzit x tefhameḍ i ḍ gellinzit ixessa ad tazuḍ x djurmanik pipel,yes
+REC012_SEG0015,REC012,SPK001,train,vad_v1,122.712,129.768,7.056,data/processed/segments/REC012/REC012_SEG0015.wav,included,d yinni imi qqan ilimanyen attas n iwḍan nneɣ qanas yinni yinni ḍi rumyen maca udji bu nican,yes
+REC012_SEG0016,REC012,SPK001,train,vad_v1,132.44,142.568,10.128,data/processed/segments/REC012/REC012_SEG0016.wav,included,waxxa ilimanyin i gi tirin nux d arbeɛa iglinziyen idanmarkiyen ihulandiyen ḍ iduytciyen,yes
+REC012_SEG0017,REC012,SPK001,train,vad_v1,145.88,156.872,10.992,data/processed/segments/REC012/REC012_SEG0017.wav,included,as d ɛawḍaɣ iglinziyen idanmarkiyen ihulandiyen ḍ iduytciyen mara ṭufiḍ iwdan kkind ssa ḍ yinni immi qqan ilimanyen,yes
+REC012_SEG0018,REC012,SPK001,train,vad_v1,157.88,165.032,7.152,data/processed/segments/REC012/REC012_SEG0018.wav,included,ilimanyen ḍinni iwḍan andafeḍ ɣasenazakuk ḍarubyu niɣ ḍazggʷaɣ neṭni udjibu ḍilimanyen,yes
+REC012_SEG0019,REC012,SPK001,train,vad_v1,165.912,171.112,5.2,data/processed/segments/REC012/REC012_SEG0019.wav,included,a maca ɛakzeɣ iruxen ḍirumiyyen zi ttaf lla ixessa utirid ci daɣyur,yes
+REC012_SEG0020,REC012,SPK001,train,vad_v1,172.376,176.328,3.952,data/processed/segments/REC012/REC012_SEG0020.wav,included,ixsa utiriḍci ḍ emmis n reḥḥam ina qqanasen ilimanyen,yes
+REC012_SEG0021,REC012,SPK001,train,vad_v1,177.688,184.352,6.664,data/processed/segments/REC012/REC012_SEG0021.wav,included,aqa zzi ceḍkan iwdan badan tegen teswaaṭ n imezgura nsen mmuc nneɣni,yes
+REC012_SEG0022,REC012,SPK001,train,vad_v1,184.352,198.656,14.304,data/processed/segments/REC012/REC012_SEG0022.wav,included,aqa rux beɛda ḍhan teswaṭ n imezgura nsen uqqimen ci teggen teswaṭ mig ɣaḍafeḍ ijjen dḍalimani ɣas aqeyyuɛ ḍalimani teggenṭ gi reɣḍa urumi uqqimen ci tegen manayenni,yes
+REC012_SEG0023,REC012,SPK001,train,vad_v1,198.656,201.864,3.208,data/processed/segments/REC012/REC012_SEG0023.wav,included,minzi qa arinasen rexba s internet arinasen ṭayniṭ rux,yes
+REC012_SEG0024,REC012,SPK001,train,vad_v1,202.232,215.488,13.256,data/processed/segments/REC012/REC012_SEG0024.wav,included,uqqimen ci teggen manayenni aqa rux teggen tsawa n ixefensen n imezgura nsen mux ḍakum nniɣ udji ci madji ɣa ṭafeḍ ci ijjen ɣas azakuk ḍ arubyu ḍazeggʷaɣ xa safi asṭinim ḍalimani lla,yes
+REC012_SEG0025,REC012,SPK001,train,vad_v1,215.488,221.224,5.736,data/processed/segments/REC012/REC012_SEG0025.wav,included,mara ṭufitten zi skutlanda niɣ zi ayrlanda yenni qqarenasen iḍaliqen niɣ iqaletiyen,yes
+REC012_SEG0026,REC012,SPK001,train,vad_v1,221.88,231.752,9.872,data/processed/segments/REC012/REC012_SEG0026.wav,included,galek niɣ kkaltek mara ṭessned taglenziṭ yenni waxxa ɣasen azakuk ḍ arrubyu niɣ ḍazeggʷaɣ,yes
+REC012_SEG0027,REC012,SPK001,train,vad_v1,232.376,243.272,10.896,data/processed/segments/REC012/REC012_SEG0027.wav,included,u tweḥsiben ci zi ilimanyen mizi raḍ neṭni ɣasen iqbiren nsen waḥeḍsen ɣasen awar nsen weḥeḍsen ɣasn kwila nsen weḥeḍsen kwila qqant i ṭṭaqafa,yes
+REC012_SEG0028,REC012,SPK001,train,vad_v1,245.272,246.504,1.232,data/processed/segments/REC012/REC012_SEG0028.wav,included,ḥma tessneḍ,yes
+REC012_SEG0029,REC012,SPK001,train,vad_v1,247.32,256.648,9.328,data/processed/segments/REC012/REC012_SEG0029.wav,included,ḥma tessned ixessa uttɛgizeḍ ci gi ismawen ixessa ad tiniḍ ismawen nican mizi bnaḍem mara ussin ci ixefines u issin ci iwḍan abarra ytxawed waha,yes
+REC012_SEG0030,REC012,SPK001,train,vad_v1,257.208,272.016,14.808,data/processed/segments/REC012/REC012_SEG0030.wav,included,waxxa rux mix tidwwiɣ amya ira ira wmi d ɣa wamira tariɣd ira tesriɣ ijjen izr ira tesriɣ izran lmuziqa n inaṭ n mimun refruɛ ma ussineɣ menwen ira qqarack min ezriɣ,yes
+REC012_SEG0031,REC012,SPK001,train,vad_v1,272.016,279.848,7.832,data/processed/segments/REC012/REC012_SEG0031.wav,included,ayemma gi ḍmurṭ n irumyen uxa qqaɣas miṭ yuɣen wa uyeɣri ci iwa iḍha ira uyɣri ci,yes
+REC012_SEG0032,REC012,SPK001,train,vad_v1,280.28,291.848,11.568,data/processed/segments/REC012/REC012_SEG0032.wav,included,netta mara yezzu adyawi netta rux mara yezzu adyawe muziqa nnes nican izran nican ixessa ataf inna min ezariɣ a yemma gi ḍmurṭ n ilimanyen,yes
 REC012_SEG0033,REC012,SPK001,train,vad_v1,292.088,302.28,10.192,data/processed/segments/REC012/REC012_SEG0033.wav,included,,no
 REC012_SEG0034,REC012,SPK001,train,vad_v1,302.712,307.112,4.4,data/processed/segments/REC012/REC012_SEG0034.wav,included,,no
 REC012_SEG0035,REC012,SPK001,train,vad_v1,308.952,318.824,9.872,data/processed/segments/REC012/REC012_SEG0035.wav,included,,no
@@ -302,22 +302,22 @@ REC012_SEG0107,REC012,SPK001,train,vad_v1,956.472,961.352,4.88,data/processed/se
 REC012_SEG0108,REC012,SPK001,train,vad_v1,962.264,964.232,1.968,data/processed/segments/REC012/REC012_SEG0108.wav,included,,no
 REC012_SEG0109,REC012,SPK001,train,vad_v1,964.28,979.272,14.992,data/processed/segments/REC012/REC012_SEG0109.wav,included,,no
 REC012_SEG0110,REC012,SPK001,train,vad_v1,979.64,986.767,7.127,data/processed/segments/REC012/REC012_SEG0110.wav,included,,no
-REC013_SEG0001,REC013,SPK001,train,vad_v1,0.536,2.344,1.808,data/processed/segments/REC013/REC013_SEG0001.wav,included,,no
-REC013_SEG0002,REC013,SPK001,train,vad_v1,3.864,17.288,13.424,data/processed/segments/REC013/REC013_SEG0002.wav,included,,no
-REC013_SEG0003,REC013,SPK001,train,vad_v1,17.592,25.352,7.76,data/processed/segments/REC013/REC013_SEG0003.wav,included,,no
-REC013_SEG0004,REC013,SPK001,train,vad_v1,25.912,39.496,13.584,data/processed/segments/REC013/REC013_SEG0004.wav,included,,no
-REC013_SEG0005,REC013,SPK001,train,vad_v1,39.896,44.296,4.4,data/processed/segments/REC013/REC013_SEG0005.wav,included,,no
-REC013_SEG0006,REC013,SPK001,train,vad_v1,44.536,56.2,11.664,data/processed/segments/REC013/REC013_SEG0006.wav,included,,no
-REC013_SEG0007,REC013,SPK001,train,vad_v1,56.472,69.224,12.752,data/processed/segments/REC013/REC013_SEG0007.wav,included,,no
-REC013_SEG0008,REC013,SPK001,train,vad_v1,70.328,73.672,3.344,data/processed/segments/REC013/REC013_SEG0008.wav,included,,no
-REC013_SEG0009,REC013,SPK001,train,vad_v1,74.232,86.24,12.008,data/processed/segments/REC013/REC013_SEG0009.wav,included,,no
-REC013_SEG0010,REC013,SPK001,train,vad_v1,86.24,91.56,5.32,data/processed/segments/REC013/REC013_SEG0010.wav,included,,no
-REC013_SEG0011,REC013,SPK001,train,vad_v1,91.992,101.008,9.016,data/processed/segments/REC013/REC013_SEG0011.wav,included,,no
-REC013_SEG0012,REC013,SPK001,train,vad_v1,101.008,113.184,12.176,data/processed/segments/REC013/REC013_SEG0012.wav,included,,no
-REC013_SEG0013,REC013,SPK001,train,vad_v1,113.184,120.04,6.856,data/processed/segments/REC013/REC013_SEG0013.wav,included,,no
-REC013_SEG0014,REC013,SPK001,train,vad_v1,120.408,133.384,12.976,data/processed/segments/REC013/REC013_SEG0014.wav,included,,no
-REC013_SEG0015,REC013,SPK001,train,vad_v1,133.784,145.448,11.664,data/processed/segments/REC013/REC013_SEG0015.wav,included,,no
-REC013_SEG0016,REC013,SPK001,train,vad_v1,146.488,149.664,3.176,data/processed/segments/REC013/REC013_SEG0016.wav,included,,no
+REC013_SEG0001,REC013,SPK001,train,vad_v1,0.536,2.344,1.808,data/processed/segments/REC013/REC013_SEG0001.wav,included,waxxa am,yes
+REC013_SEG0002,REC013,SPK001,train,vad_v1,3.864,17.288,13.424,data/processed/segments/REC013/REC013_SEG0002.wav,included,wami ammen min ɣaneg z gg wawar d tamazɣa attas n iwḍan amedji ɣa ssiwereɣ ṭmaziɣt niɣ azzuɣ aḍ ssiwreɣ x umezruy itekkayd zdaṭ itekkayd tsemma iteggay jnun iqqarak issawar x tamazɣa,yes
+REC013_SEG0003,REC013,SPK001,train,vad_v1,17.592,25.352,7.76,data/processed/segments/REC013/REC013_SEG0003.wav,included,necc tamazɣa ukis teggeɣ smunan zi ttaf mizi necc ssneɣ ma yestekka manis d ikka manayenni ssneɣ ṭubuhella mayes d ikka xa,yes
+REC013_SEG0004,REC013,SPK001,train,vad_v1,25.912,39.496,13.584,data/processed/segments/REC013/REC013_SEG0004.wav,included,manayenni uɣas tmeyareɣ ci manayenni ukis teggeɣ ci essneɣ ira ḍ ixawiḍen waha akum iniɣ maɣa tamazɣa ya mara medji ɣa ṭexzad atafeḍ bandiraṭ tekksenṭan meri ufin bandiraṭ nni unṭntwirin maca manaya qebbrenṭ,yes
+REC013_SEG0005,REC013,SPK001,train,vad_v1,39.896,44.296,4.4,data/processed/segments/REC013/REC013_SEG0005.wav,included,mayemma ṭazuḍ internet atafedd iteḍhad manaya i mizi qebbren manaya u qebbren bu bandiraṭ,yes
+REC013_SEG0006,REC013,SPK001,train,vad_v1,44.536,56.2,11.664,data/processed/segments/REC013/REC013_SEG0006.wav,included,akum iniɣ mays dikka manaya yekkad zi rweqt n ifaṭimiyyen amedji ɣa ṭexzaḍ ɣa umezruy atafeḍ,yes
+REC013_SEG0007,REC013,SPK001,train,vad_v1,56.472,69.224,12.752,data/processed/segments/REC013/REC013_SEG0007.wav,included,g rweqt n ifaṭimiyyen atafeḍ ḍ wenni ḍ rweqt mig ufin imenɛaq isenhajen tsemma imtarcen n sseḥra iwḍan n sseḥra g rweqt nni ufin ṭaksaṭ x iwḍan qqaɛ,yes
+REC013_SEG0008,REC013,SPK001,train,vad_v1,70.328,73.672,3.344,data/processed/segments/REC013/REC013_SEG0008.wav,included,illa x dmurṭ n spanya d ṭṭamurṭ nneɣ,yes
+REC013_SEG0009,REC013,SPK001,train,vad_v1,74.232,86.24,12.008,data/processed/segments/REC013/REC013_SEG0009.wav,included,maca x iwḍan nneɣni neṭnin rufin xesen ṭaksaṭ neṭnin ira ddin uṭqebren neṭnin ddin qebrenṭ ɣa s mi min tɣiren neṭnin,yes
+REC013_SEG0010,REC013,SPK001,train,vad_v1,86.24,91.56,5.32,data/processed/segments/REC013/REC013_SEG0010.wav,included,neṭnin ira takan ṭimura neṭnin ira takan reḥwayej,yes
+REC013_SEG0011,REC013,SPK001,train,vad_v1,91.992,101.008,9.016,data/processed/segments/REC013/REC013_SEG0011.wav,included,muhim amedji ɣa texsaḍ gi idrisen xa ṭazuḍ x fatimiyyen atafeḍ ḍ wenni immi qqan elfitna ṭameqrant n isenhajen,yes
+REC013_SEG0012,REC013,SPK001,train,vad_v1,101.008,113.184,12.176,data/processed/segments/REC013/REC013_SEG0012.wav,included,tsema iwḍan n sseḥra min gin iwḍan qqaɛ udji ci zeɛma emsermen waha lla iwdan zi ṭṭaf ɣa wenni mig ɣafen ṭaksaṭ tijjanṭ llah iḥefḍ gi,yes
+REC013_SEG0013,REC013,SPK001,train,vad_v1,113.184,120.04,6.856,data/processed/segments/REC013/REC013_SEG0013.wav,included,gi reɣben qedjɛen xes tarin ḍarwina u ɛaweḍ neṭni ira ɣasen kifkif neṭni amedji ɣa ḥaṭen,yes
+REC013_SEG0014,REC013,SPK001,train,vad_v1,120.408,133.384,12.976,data/processed/segments/REC013/REC013_SEG0014.wav,included,xa bnaḍem tɛanenass muhim kulci ḥta ak iniɣ cu wawar daɛffaan neṭni ira ṭeɛyan gi iwḍan zi ṭṭaf ufin aḥenja ɛanenas ufina agaz ɛanenas ufin ṭamɣaṭ ɛanenas teggen ira gi rweqt nni ira teggen timesrayen tiɛeffanin,yes
+REC013_SEG0015,REC013,SPK001,train,vad_v1,133.784,145.448,11.664,data/processed/segments/REC013/REC013_SEG0015.wav,included,xa waxxa ḍimenɛuq neṭnin ira ggin ijjen tandint qahira xa zi qahira neṭnin ira teggen ṭimesrayin  idji iɣa n iggen qaɛ,yes
+REC013_SEG0016,REC013,SPK001,train,vad_v1,146.488,149.664,3.176,data/processed/segments/REC013/REC013_SEG0016.wav,included,imen3aq neṭnin ira ḍ isenhajen,yes
 REC013_SEG0017,REC013,SPK001,train,vad_v1,149.664,162.696,13.032,data/processed/segments/REC013/REC013_SEG0017.wav,included,,no
 REC013_SEG0018,REC013,SPK001,train,vad_v1,165.656,169.512,3.856,data/processed/segments/REC013/REC013_SEG0018.wav,included,,no
 REC013_SEG0019,REC013,SPK001,train,vad_v1,169.784,183.584,13.8,data/processed/segments/REC013/REC013_SEG0019.wav,included,,no
@@ -708,58 +708,58 @@ REC016_SEG0110,REC016,SPK001,train,vad_v1,948.568,949.448,0.88,data/processed/se
 REC016_SEG0111,REC016,SPK001,train,vad_v1,949.88,963.848,13.968,data/processed/segments/REC016/REC016_SEG0111.wav,included,,no
 REC016_SEG0112,REC016,SPK001,train,vad_v1,963.992,977.352,13.36,data/processed/segments/REC016/REC016_SEG0112.wav,included,,no
 REC016_SEG0113,REC016,SPK001,train,vad_v1,978.648,988.81,10.162,data/processed/segments/REC016/REC016_SEG0113.wav,included,,no
-REC034_SEG0001,REC034,SPK002,train,vad_v1,2.616,5.224,2.608,data/processed/segments/REC034/REC034_SEG0001.wav,included,,no
-REC034_SEG0002,REC034,SPK002,train,vad_v1,5.688,18.376,12.688,data/processed/segments/REC034/REC034_SEG0002.wav,included,,no
-REC034_SEG0003,REC034,SPK002,train,vad_v1,18.808,26.088,7.28,data/processed/segments/REC034/REC034_SEG0003.wav,included,,no
-REC034_SEG0004,REC034,SPK002,train,vad_v1,26.52,35.24,8.72,data/processed/segments/REC034/REC034_SEG0004.wav,included,,no
-REC034_SEG0005,REC034,SPK002,train,vad_v1,35.8,43.048,7.248,data/processed/segments/REC034/REC034_SEG0005.wav,included,,no
-REC034_SEG0006,REC034,SPK002,train,vad_v1,43.544,54.728,11.184,data/processed/segments/REC034/REC034_SEG0006.wav,included,,no
-REC034_SEG0007,REC034,SPK002,train,vad_v1,55.192,65.864,10.672,data/processed/segments/REC034/REC034_SEG0007.wav,included,,no
-REC034_SEG0008,REC034,SPK002,train,vad_v1,66.232,75.016,8.784,data/processed/segments/REC034/REC034_SEG0008.wav,included,,no
-REC034_SEG0009,REC034,SPK002,train,vad_v1,75.416,85.992,10.576,data/processed/segments/REC034/REC034_SEG0009.wav,included,,no
-REC034_SEG0010,REC034,SPK002,train,vad_v1,86.136,98.344,12.208,data/processed/segments/REC034/REC034_SEG0010.wav,included,,no
-REC034_SEG0011,REC034,SPK002,train,vad_v1,98.584,110.728,12.144,data/processed/segments/REC034/REC034_SEG0011.wav,included,,no
-REC034_SEG0012,REC034,SPK002,train,vad_v1,111.128,119.272,8.144,data/processed/segments/REC034/REC034_SEG0012.wav,included,,no
-REC034_SEG0013,REC034,SPK002,train,vad_v1,119.608,132.52,12.912,data/processed/segments/REC034/REC034_SEG0013.wav,included,,no
-REC034_SEG0014,REC034,SPK002,train,vad_v1,132.984,144.68,11.696,data/processed/segments/REC034/REC034_SEG0014.wav,included,,no
-REC034_SEG0015,REC034,SPK002,train,vad_v1,144.952,148.392,3.44,data/processed/segments/REC034/REC034_SEG0015.wav,included,,no
-REC034_SEG0016,REC034,SPK002,train,vad_v1,148.696,160.912,12.216,data/processed/segments/REC034/REC034_SEG0016.wav,included,,no
-REC034_SEG0017,REC034,SPK002,train,vad_v1,160.912,169.032,8.12,data/processed/segments/REC034/REC034_SEG0017.wav,included,,no
-REC034_SEG0018,REC034,SPK002,train,vad_v1,169.176,181.8,12.624,data/processed/segments/REC034/REC034_SEG0018.wav,included,,no
-REC034_SEG0019,REC034,SPK002,train,vad_v1,182.04,185.832,3.792,data/processed/segments/REC034/REC034_SEG0019.wav,included,,no
-REC034_SEG0020,REC034,SPK002,train,vad_v1,186.104,199.872,13.768,data/processed/segments/REC034/REC034_SEG0020.wav,included,,no
-REC034_SEG0021,REC034,SPK002,train,vad_v1,199.872,202.568,2.696,data/processed/segments/REC034/REC034_SEG0021.wav,included,,no
-REC034_SEG0022,REC034,SPK002,train,vad_v1,203.064,215.464,12.4,data/processed/segments/REC034/REC034_SEG0022.wav,included,,no
-REC034_SEG0023,REC034,SPK002,train,vad_v1,215.736,219.24,3.504,data/processed/segments/REC034/REC034_SEG0023.wav,included,,no
-REC034_SEG0024,REC034,SPK002,train,vad_v1,219.384,230.984,11.6,data/processed/segments/REC034/REC034_SEG0024.wav,included,,no
-REC034_SEG0025,REC034,SPK002,train,vad_v1,231.224,243.016,11.792,data/processed/segments/REC034/REC034_SEG0025.wav,included,,no
-REC034_SEG0026,REC034,SPK002,train,vad_v1,243.224,251.24,8.016,data/processed/segments/REC034/REC034_SEG0026.wav,included,,no
-REC034_SEG0027,REC034,SPK002,train,vad_v1,251.448,261.096,9.648,data/processed/segments/REC034/REC034_SEG0027.wav,included,,no
-REC034_SEG0028,REC034,SPK002,train,vad_v1,261.144,271.976,10.832,data/processed/segments/REC034/REC034_SEG0028.wav,included,,no
-REC034_SEG0029,REC034,SPK002,train,vad_v1,272.056,285.352,13.296,data/processed/segments/REC034/REC034_SEG0029.wav,included,,no
-REC034_SEG0030,REC034,SPK002,train,vad_v1,285.4,293.736,8.336,data/processed/segments/REC034/REC034_SEG0030.wav,included,,no
-REC034_SEG0031,REC034,SPK002,train,vad_v1,293.848,307.976,14.128,data/processed/segments/REC034/REC034_SEG0031.wav,included,,no
-REC034_SEG0032,REC034,SPK002,train,vad_v1,308.056,320.104,12.048,data/processed/segments/REC034/REC034_SEG0032.wav,included,,no
-REC034_SEG0033,REC034,SPK002,train,vad_v1,320.6,332.552,11.952,data/processed/segments/REC034/REC034_SEG0033.wav,included,,no
-REC034_SEG0034,REC034,SPK002,train,vad_v1,332.728,345.04,12.312,data/processed/segments/REC034/REC034_SEG0034.wav,included,,no
-REC034_SEG0035,REC034,SPK002,train,vad_v1,345.04,350.632,5.592,data/processed/segments/REC034/REC034_SEG0035.wav,included,,no
-REC034_SEG0036,REC034,SPK002,train,vad_v1,350.936,361.216,10.28,data/processed/segments/REC034/REC034_SEG0036.wav,included,,no
-REC034_SEG0037,REC034,SPK002,train,vad_v1,361.216,369.704,8.488,data/processed/segments/REC034/REC034_SEG0037.wav,included,,no
-REC034_SEG0038,REC034,SPK002,train,vad_v1,369.88,376.2,6.32,data/processed/segments/REC034/REC034_SEG0038.wav,included,,no
-REC034_SEG0039,REC034,SPK002,train,vad_v1,376.344,388.768,12.424,data/processed/segments/REC034/REC034_SEG0039.wav,included,,no
-REC034_SEG0040,REC034,SPK002,train,vad_v1,388.768,402.216,13.448,data/processed/segments/REC034/REC034_SEG0040.wav,included,,no
-REC034_SEG0041,REC034,SPK002,train,vad_v1,402.424,414.056,11.632,data/processed/segments/REC034/REC034_SEG0041.wav,included,,no
-REC034_SEG0042,REC034,SPK002,train,vad_v1,414.168,425.832,11.664,data/processed/segments/REC034/REC034_SEG0042.wav,included,,no
-REC034_SEG0043,REC034,SPK002,train,vad_v1,425.944,432.456,6.512,data/processed/segments/REC034/REC034_SEG0043.wav,included,,no
-REC034_SEG0044,REC034,SPK002,train,vad_v1,432.536,441.864,9.328,data/processed/segments/REC034/REC034_SEG0044.wav,included,,no
-REC034_SEG0045,REC034,SPK002,train,vad_v1,441.944,450.728,8.784,data/processed/segments/REC034/REC034_SEG0045.wav,included,,no
-REC034_SEG0046,REC034,SPK002,train,vad_v1,450.808,460.2,9.392,data/processed/segments/REC034/REC034_SEG0046.wav,included,,no
-REC034_SEG0047,REC034,SPK002,train,vad_v1,460.376,471.048,10.672,data/processed/segments/REC034/REC034_SEG0047.wav,included,,no
-REC034_SEG0048,REC034,SPK002,train,vad_v1,471.16,475.368,4.208,data/processed/segments/REC034/REC034_SEG0048.wav,included,,no
-REC034_SEG0049,REC034,SPK002,train,vad_v1,475.416,489.576,14.16,data/processed/segments/REC034/REC034_SEG0049.wav,included,,no
-REC034_SEG0050,REC034,SPK002,train,vad_v1,489.656,498.568,8.912,data/processed/segments/REC034/REC034_SEG0050.wav,included,,no
-REC034_SEG0051,REC034,SPK002,train,vad_v1,498.744,507.688,8.944,data/processed/segments/REC034/REC034_SEG0051.wav,included,,no
-REC034_SEG0052,REC034,SPK002,train,vad_v1,507.704,517.416,9.712,data/processed/segments/REC034/REC034_SEG0052.wav,included,,no
+REC034_SEG0001,REC034,SPK002,train,vad_v1,2.616,5.224,2.608,data/processed/segments/REC034/REC034_SEG0001.wav,included,azul ayṭma suyṭma ssitimeɣ atirim mliḥ,yes
+REC034_SEG0002,REC034,SPK002,train,vad_v1,5.688,18.376,12.688,data/processed/segments/REC034/REC034_SEG0002.wav,included,akiḍwum umaṭum ayub nhara teḥabeɣd zahwum d gijjen n texrasṭ zi ṭxrazin n lpudkast nneɣ ḍaɣimit amux ḍ zrim gi fidyuya nessiwur x rweqṭ emmi ig ṭtaw qaɛ ac tuya,yes
+REC034_SEG0003,REC034,SPK002,train,vad_v1,18.808,26.088,7.28,data/processed/segments/REC034/REC034_SEG0003.wav,included,qber ima nebḍa ṭaxrasta awim d akiḍ kum rkas watay enkum niɣ rkas n rqahwa ḥma ṭiri ḍaɣimita,yes
+REC034_SEG0004,REC034,SPK002,train,vad_v1,26.52,35.24,8.72,data/processed/segments/REC034/REC034_SEG0004.wav,included,tmizḍigṭ taṣebḥant gi ṭaxrazta  azzayek talbeɣ ad taris piriḍ mliḥ ad deqqened ṭitawin inek ecway,yes
+REC034_SEG0005,REC034,SPK002,train,vad_v1,35.8,43.048,7.248,data/processed/segments/REC034/REC034_SEG0005.wav,included,mara ṭexsed txiyel iixfinek ira ṭettfeḍ rweqṭ s ifassen inek am ijj n ufiru niɣ ijj n uṣɣun,yes
+REC034_SEG0006,REC034,SPK002,train,vad_v1,43.544,54.728,11.184,data/processed/segments/REC034/REC034_SEG0006.wav,included,suɣumaɣ igga am ellastik itenejbaḍ mara ḍ jbeḍet bezzaf yḍegger dazegra mara ṭaxuḍas ydzeyya,yes
+REC034_SEG0007,REC034,SPK002,train,vad_v1,55.192,65.864,10.672,data/processed/segments/REC034/REC034_SEG0007.wav,included,eḍ wa ḍ rweqṭ amyi igiga xelli rebɛad n n lɛulama lisyentifik qqanak  rweqṭ maṭalan ijjen tminut daks sttin sugund,yes
+REC034_SEG0008,REC034,SPK002,train,vad_v1,66.232,75.016,8.784,data/processed/segments/REC034/REC034_SEG0008.wav,included,sakand ijjen ssaɛat daksa ireqqasem ireqqasen nni ticenakd cḥa din n sigundu d gikur minut cḥa din t minuṭin di kur ssaɛat,yes
+REC034_SEG0009,REC034,SPK002,train,vad_v1,75.416,85.992,10.576,data/processed/segments/REC034/REC034_SEG0009.wav,included,zi cḥa din n swayeɛ gi kur nha maca gi lḥaqiqa rweqṭ udji bu d manayenni rweqṭ ɣas ṭnayen iɣembab niɣ ṭnayenn ikemman akemmar amezgaru,yes
+REC034_SEG0010,REC034,SPK002,train,vad_v1,86.136,98.344,12.208,data/processed/segments/REC034/REC034_SEG0010.wav,included,ɛaweḍ min ḍax eqqan lɛulama yina sayentist qanak qa rweqṭ ḍ ijjen n ṭmesrayṭ fiks qanas s frensis situn uniti d muzuɣ maṭalan,yes
+REC034_SEG0011,REC034,SPK002,train,vad_v1,98.584,110.728,12.144,data/processed/segments/REC034/REC034_SEG0011.wav,included,sigundu niɣ minut niɣ ḍsaɛet uḍ zzaman s ixefines niɣ ḍ rweqṭ s ixefines ydja yjɛal lasyuns niɣ lɛilem,yes
+REC034_SEG0012,REC034,SPK002,train,vad_v1,111.128,119.272,8.144,data/processed/segments/REC034/REC034_SEG0012.wav,included,ad ttuwwer adt ifulya ad tuga ɣa zdaṭ maca necnin nesḥissa ira lweqṭ uɛeddici kif kif,yes
+REC034_SEG0013,REC034,SPK002,train,vad_v1,119.608,132.52,12.912,data/processed/segments/REC034/REC034_SEG0013.wav,included,djan rbɛad n mumintuṭ ɛeddan ḍɣya rbɛad mumintuṭ ɛeddan cway cway umi n nzar kurma nwsa kurma n numɣa nesḥissa ira rweqṭ iɛedda ḍɣya iɛedda itazzer,yes
+REC034_SEG0014,REC034,SPK002,train,vad_v1,132.984,144.68,11.696,data/processed/segments/REC034/REC034_SEG0014.wav,included,rebḥant ureṭni teseqsiɣ ixef inu qars maɣar wami ḥeqqb ɣaḍ za ɣ tmamin min qqaan lɛulama aki manaya ufi ɣasen ntmeɣ bzzaaf ndɣummur amaysmys zarren,yes
+REC034_SEG0015,REC034,SPK002,train,vad_v1,144.952,148.392,3.44,data/processed/segments/REC034/REC034_SEG0015.wav,included,ṭamesrayṭa mara ṭraḥeḍ a ṣḥab ɛilm nnefs,yes
+REC034_SEG0016,REC034,SPK002,train,vad_v1,148.696,160.912,12.216,data/processed/segments/REC034/REC034_SEG0016.wav,included,tafḍ ɣasen ijjen nnaḍariya ijjen latiyuri qqanas prupurciunaliti niɣ nnadariya nnisbiyya min dak ṭeqqar ṭeqqarak cḥar ma zzaman,yes
+REC034_SEG0017,REC034,SPK002,train,vad_v1,160.912,169.032,8.12,data/processed/segments/REC034/REC034_SEG0017.wav,included,itcekkal ijj n ijj n nniseba ṭemɣa zi lḥayet inek cḥa ma yɛedda cway cway cḥar ma lmudda zamaniya ni tcekkal,yes
+REC034_SEG0018,REC034,SPK002,train,vad_v1,169.176,181.8,12.624,data/processed/segments/REC034/REC034_SEG0018.wav,included,ijjen nnisba tamezyant zi ṭudaṭ inek rweqṭ iggʷa ḍeɣya akum dcarḥeɣ rux mara teɛqqarem umi ira nedja d imezyanen ira anebdu u ytkemmir,yes
+REC034_SEG0019,REC034,SPK002,train,vad_v1,182.04,185.832,3.792,data/processed/segments/REC034/REC034_SEG0019.wav,included,axmi tfekkaɣ rebɛad inebḍuṭen sseɛdixṭen,yes
+REC034_SEG0020,REC034,SPK002,train,vad_v1,186.104,199.872,13.768,data/processed/segments/REC034/REC034_SEG0020.wav,included,essawid abbi am cɣer sseɛḍiɣ ɛam ikmer g unebḍu ɛaḍ teɛqereɣ x rebḥa umi ɣas hggʷiɣ ɛqreɣ ṭwaret tamezgarut umi hwiɣ a rebḥar bra baba dg imeddukar inu ɛeqereɣ,yes
+REC034_SEG0021,REC034,SPK002,train,vad_v1,199.872,202.568,2.696,data/processed/segments/REC034/REC034_SEG0021.wav,included,ɛeqreɣ x familya ir ditasen zi lxarij,yes
+REC034_SEG0022,REC034,SPK002,train,vad_v1,203.064,215.464,12.4,data/processed/segments/REC034/REC034_SEG0022.wav,included,ɛeqreɣ xmi ira nteɛya ɛeqreɣ x djeyari ira nteffeɣ a parki ɛeqreɣ anebdu sḥissid zakes deqqaḍas manaya gads ɛam walakin gi lḥaqiqa min daɣ qqan ruxa lɛulama n ɛilm nnefs,yes
+REC034_SEG0023,REC034,SPK002,train,vad_v1,215.736,219.24,3.504,data/processed/segments/REC034/REC034_SEG0023.wav,included,gi gi naḍariya ya ṭanitin prupursiunal ṭiyuri,yes
+REC034_SEG0024,REC034,SPK002,train,vad_v1,219.384,230.984,11.6,data/processed/segments/REC034/REC034_SEG0024.wav,included,qanak si nurmal azzaks s tesḥisseḍ ira imɣa tsemma anebdu nni ḍameqqran maɣa mizi anebdu nni ytcekkal ijjen n prupurcen prupurcenal ṭiyuri,yes
+REC034_SEG0025,REC034,SPK002,train,vad_v1,231.224,243.016,11.792,data/processed/segments/REC034/REC034_SEG0025.wav,included,ṭusad zi prupurcen nnisbiya niɣ nniṣba yɛni a nebdu nni mecḥar i gi itcekkal ḍ nnisba zi ṭuḍaṭ inek ṭekmer maṭalann ijjen xmessnin niɣ d stesnin,yes
+REC034_SEG0026,REC034,SPK002,train,vad_v1,243.224,251.24,8.016,data/processed/segments/REC034/REC034_SEG0026.wav,included,anebdu nni atafeḍ ytcekkal ijjen ɛicrin gi miya zi ṭudaṭ ines niɣ lɛam itcekkal ɛicrin gi miya zi ṭudaṭ ines,yes
+REC034_SEG0027,REC034,SPK002,train,vad_v1,251.448,261.096,9.648,data/processed/segments/REC034/REC034_SEG0027.wav,included,walakin xmi ntnumɣa maṭalan necc eggʷaɣ ruxa weḥdu ṭraṭin iseggusa ɛam itcekkal mara neggas reḥsab teqriban ṭraṭa gi miya,yes
+REC034_SEG0028,REC034,SPK002,train,vad_v1,261.144,271.976,10.832,data/processed/segments/REC034/REC034_SEG0028.wav,included,zi ɛicrin gi miya ɣa ṭraṭa gi miya bezzaf u mara nessiwer x ci ijjen ɣa ssetin sna tiri ɛam ytcekkal waḥit gi miya niɣ waḥit ḍ uzgen,yes
+REC034_SEG0029,REC034,SPK002,train,vad_v1,272.056,285.352,13.296,data/processed/segments/REC034/REC034_SEG0029.wav,included,lmuhim lɛulama n ɛilem nnefs ɣasen ṭamsrayṭa qanak kur ma nemɣa wussan ṭemziyyen yɛni rweqṭ iɛedda deɣya walakin amux izareɣ udji bu ḍ manaya udji bu ḍ wa ḍ ssabab,yes
+REC034_SEG0030,REC034,SPK002,train,vad_v1,285.4,293.736,8.336,data/processed/segments/REC034/REC034_SEG0030.wav,included,amux ettafeɣ necc qaɣ zeɛma reɛqer nneɣ etmiyyaz rḥajeṭ igidja itɛicit ḍ jdiḍ itɛicit di ḍwaret tamezgarut,yes
+REC034_SEG0031,REC034,SPK002,train,vad_v1,293.848,307.976,14.128,data/processed/segments/REC034/REC034_SEG0031.wav,included,ḍ reḥwayej igidja n itɛiciṭen kur nha n qarasen necnin arutin ɣar xmi ḍeggʷerent riyyam ḍ arrutin waha maṭalan ṭaḥed a rxedmeṭ a ṭmenya n ṣṣbaḥ ṭeffeɣd a setta zi ṭmenya ɣa setta kur nha lɛam ikmer iḍeggʷer manayenni ḍarruṭin,yes
+REC034_SEG0032,REC034,SPK002,train,vad_v1,308.056,320.104,12.048,data/processed/segments/REC034/REC034_SEG0032.wav,included,uxa raɛqre ḥma aci pruṭija cek imken aḍ isejjel nha amezgaru umi ṭraḥeḍ a rxeḍmeṭ ḥma atɛqreḍ x imeḥdan d jḍiḍ maṭalan mara tsɣuriḍ niɣ mara txedmed ḍgi can lbiru ḥma tɛeqreḍ x iwdan nni kik ixeddmen,yes
+REC034_SEG0033,REC034,SPK002,train,vad_v1,320.6,332.552,11.952,data/processed/segments/REC034/REC034_SEG0033.wav,included,walakin ɣir ateɛda ssimana tnayen ṭraṭa safi rɛqer nek u tɣimici yteɛqar niɣ ytsejjal ussan igiɛedden tsemma iḍeggʷer nhara am ṭiwcca,yes
+REC034_SEG0034,REC034,SPK002,train,vad_v1,332.728,345.04,12.312,data/processed/segments/REC034/REC034_SEG0034.wav,included,gi ṭemzi nneɣ ira kurci dejḍiḍ nha amezgaru mig ṭraḥed a medrasa imeddukar imezgura ṭiggʷḍi ṭamezgarut kumbati ṭamezgarut refraḥeṭ inek ṭamezgarut wami tesɣiṭ ttrumbu wami ṭeɛyaḍ bulaṭ,yes
+REC034_SEG0035,REC034,SPK002,train,vad_v1,345.04,350.632,5.592,data/processed/segments/REC034/REC034_SEG0035.wav,included,niɣ i tḥamucin umi ɛyant llastik ṭwaret temezgarut iɛni kulci ira d jḍiḍ,yes
+REC034_SEG0036,REC034,SPK002,train,vad_v1,350.936,361.216,10.28,data/processed/segments/REC034/REC034_SEG0036.wav,included,amma rux bezzaf n wessan nneɣ temcabahen suyenni tafed bnadem iteɛqar x kunji niɣ livakuns ines kta zi min yteɛqar,yes
+REC034_SEG0037,REC034,SPK002,train,vad_v1,361.216,369.704,8.488,data/processed/segments/REC034/REC034_SEG0037.wav,included,x l ayam lɛadiya x wussan i gidja gi rxdemeṭ niɣ s manayenni qqaras kur nha ixessa tiri dakes cin tmesrayṭ dejdid,yes
+REC034_SEG0038,REC034,SPK002,train,vad_v1,369.88,376.2,6.32,data/processed/segments/REC034/REC034_SEG0038.wav,included,maɣa mizi riyam nni nsɛedd gi arrutin am cɣar n tsiyyabiṭen gi rexwa waha,yes
+REC034_SEG0039,REC034,SPK002,train,vad_v1,376.344,388.768,12.424,data/processed/segments/REC034/REC034_SEG0039.wav,included,ḍin ijjen tɣemmaṭ nedden ḍi ɛilem tsemma laɛṣab amux ṭessnem rux raɛqer n bnadem daks laɛṣab bezzaf daksen nurunz iseqqan s t gllinziṭ bezzaf n laɛṣab,yes
+REC034_SEG0040,REC034,SPK002,train,vad_v1,388.768,402.216,13.448,data/processed/segments/REC034/REC034_SEG0040.wav,included,tkuwwanentid reɛqer n bnaḍem xumi ida xeqqan lɛulama ruxa n ɛilm laɛṣab qanak aweddi qa xmi tmunɣa bnadem raɛqer nnes wu tirici atrakted ɣa lḥayat bicakel ɛam iɛni bnadem xmi gitenumɣa,yes
+REC034_SEG0041,REC034,SPK002,train,vad_v1,402.424,414.056,11.632,data/processed/segments/REC034/REC034_SEG0041.wav,included,iqqaral kulci zriɣṭ rebḥa zriɣṭ rbar zriɣṭ meɣrib zriɣt uruppa zriɣt kulci zriɣṭ iɛni qlil ḍrus n tmesrayin igidja tawḍent,yes
+REC034_SEG0042,REC034,SPK002,train,vad_v1,414.168,425.832,11.664,data/processed/segments/REC034/REC034_SEG0042.wav,included,aḍ leftent lintibah ammux das neqqa s taɛrabṭ iɛni dd add kkaptant lintibah n ssiyda wanitin maṭalan mara aqaṭ gi cin ijjen lejtimaɛ maṭalan adnawi ci jjjen ɣas ṭementac asna,yes
+REC034_SEG0043,REC034,SPK002,train,vad_v1,425.944,432.456,6.512,data/processed/segments/REC034/REC034_SEG0043.wav,included,w nedden ɣas ṭmenyu ṭmanin sna aṭneg gi nafs lejtimaɛ wenni umi ɣa ṭedja  ṭementac asna ad ikapta kulci,yes
+REC034_SEG0044,REC034,SPK002,train,vad_v1,432.536,441.864,9.328,data/processed/segments/REC034/REC034_SEG0044.wav,included,ad iɛeqer min dinna wa min dinna win miɣd d issiwer wa netta muxasiga yssiwer min dran iwḍan nni akiḍes din bnaḍem mara ɣas ṭmenyu ṭmanin sna,yes
+REC034_SEG0045,REC034,SPK002,train,vad_v1,441.944,450.728,8.784,data/processed/segments/REC034/REC034_SEG0045.wav,included,imken lejtimaɛ nni tsemma amuni nni gan u ṭit aṭiraci ytma wyteɛqir x walu,yes
+REC034_SEG0046,REC034,SPK002,train,vad_v1,450.808,460.2,9.392,data/processed/segments/REC034/REC034_SEG0046.wav,included,s manaya lɛulama rux n ɛilm laɛṣab qanak raɛquraṭ yiwḍan ig numɣan uxeddmen ci s ṭazzra,yes
+REC034_SEG0047,REC034,SPK002,train,vad_v1,460.376,471.048,10.672,data/processed/segments/REC034/REC034_SEG0047.wav,included,am raɛquraṭ iwdan imezzyanen ɛaḍ xubiniṭ raɛquraṭ n xubiniṭ tsejjalen ṭṭafasi l ditilz kur dqiqeṭ kta zi raɛquraṭ iwḍan innumɣan,yes
+REC034_SEG0048,REC034,SPK002,train,vad_v1,471.16,475.368,4.208,data/processed/segments/REC034/REC034_SEG0048.wav,included,u manaya ɛadi banḍem ɣir aḍinnumɣa ciḥaja u ytɛeqqir ci bezzaf,yes
+REC034_SEG0049,REC034,SPK002,train,vad_v1,475.416,489.576,14.16,data/processed/segments/REC034/REC034_SEG0049.wav,included,u din ijjen n tmsaryṭ nedden bnisba i ddupamin ddupamin d ijjen kimikal ḍ ijjen lmadda aqat ɣaneɣ gi ddat nneɣ niɣ tferrazitid ddat nneɣ dṣsufuɣitid ddat nneɣ nettaṭ,yes
+REC034_SEG0050,REC034,SPK002,train,vad_v1,489.656,498.568,8.912,data/processed/segments/REC034/REC034_SEG0050.wav,included,ṭssexdam rɛqer iɛni t eksita nniḍam lɛaṣabi iɣaneɣ ḍ sɛuna bnadem ḥma adḍi kunsentra kta axm n tnumɣa,yes
+REC034_SEG0051,REC034,SPK002,train,vad_v1,498.744,507.688,8.944,data/processed/segments/REC034/REC034_SEG0051.wav,included,iḍeggʷer ɣaneɣ ddupamin inqes zi umi ira nedja ḍimezzyanen reḥwayejja s ṭnayen qqant belli ira bnaḍem i gi nnumɣan,yes
+REC034_SEG0052,REC034,SPK002,train,vad_v1,507.704,517.416,9.712,data/processed/segments/REC034/REC034_SEG0052.wav,included,u itkapti ci bezzaf n tmesrayin gi nha ines suyenni ytbanazd nnha iggʷa ḍeɣya minzi uḍaks bu ljadid wu ḍegs bu cin tmesrayeṭ ḍ jdiḍ,yes
 REC034_SEG0053,REC034,SPK002,train,vad_v1,517.624,529.256,11.632,data/processed/segments/REC034/REC034_SEG0053.wav,included,,no
 REC034_SEG0054,REC034,SPK002,train,vad_v1,529.336,533.96,4.624,data/processed/segments/REC034/REC034_SEG0054.wav,included,,no
 REC034_SEG0055,REC034,SPK002,train,vad_v1,533.976,545.776,11.8,data/processed/segments/REC034/REC034_SEG0055.wav,included,,no
@@ -802,62 +802,62 @@ REC034_SEG0091,REC034,SPK002,train,vad_v1,895.032,904.944,9.912,data/processed/s
 REC034_SEG0092,REC034,SPK002,train,vad_v1,904.944,915.976,11.032,data/processed/segments/REC034/REC034_SEG0092.wav,included,,no
 REC034_SEG0093,REC034,SPK002,train,vad_v1,916.056,925.992,9.936,data/processed/segments/REC034/REC034_SEG0093.wav,included,,no
 REC034_SEG0094,REC034,SPK002,train,vad_v1,926.264,933.32,7.056,data/processed/segments/REC034/REC034_SEG0094.wav,included,,no
-REC035_SEG0001,REC035,SPK002,train,vad_v1,0.664,8.04,7.376,data/processed/segments/REC035/REC035_SEG0001.wav,included,,no
-REC035_SEG0002,REC035,SPK002,train,vad_v1,9.208,17.32,8.112,data/processed/segments/REC035/REC035_SEG0002.wav,included,,no
-REC035_SEG0003,REC035,SPK002,train,vad_v1,18.584,28.776,10.192,data/processed/segments/REC035/REC035_SEG0003.wav,included,,no
-REC035_SEG0004,REC035,SPK002,train,vad_v1,30.712,39.176,8.464,data/processed/segments/REC035/REC035_SEG0004.wav,included,,no
-REC035_SEG0005,REC035,SPK002,train,vad_v1,40.12,41.64,1.52,data/processed/segments/REC035/REC035_SEG0005.wav,included,,no
-REC035_SEG0006,REC035,SPK002,train,vad_v1,41.976,55.112,13.136,data/processed/segments/REC035/REC035_SEG0006.wav,included,,no
-REC035_SEG0007,REC035,SPK002,train,vad_v1,55.608,62.984,7.376,data/processed/segments/REC035/REC035_SEG0007.wav,included,,no
-REC035_SEG0008,REC035,SPK002,train,vad_v1,65.272,72.936,7.664,data/processed/segments/REC035/REC035_SEG0008.wav,included,,no
-REC035_SEG0009,REC035,SPK002,train,vad_v1,73.432,82.536,9.104,data/processed/segments/REC035/REC035_SEG0009.wav,included,,no
-REC035_SEG0010,REC035,SPK002,train,vad_v1,82.68,93.224,10.544,data/processed/segments/REC035/REC035_SEG0010.wav,included,,no
-REC035_SEG0011,REC035,SPK002,train,vad_v1,94.84,98.6,3.76,data/processed/segments/REC035/REC035_SEG0011.wav,included,,no
-REC035_SEG0012,REC035,SPK002,train,vad_v1,99.928,108.712,8.784,data/processed/segments/REC035/REC035_SEG0012.wav,included,,no
-REC035_SEG0013,REC035,SPK002,train,vad_v1,109.784,112.488,2.704,data/processed/segments/REC035/REC035_SEG0013.wav,included,,no
-REC035_SEG0014,REC035,SPK002,train,vad_v1,112.792,125.064,12.272,data/processed/segments/REC035/REC035_SEG0014.wav,included,,no
-REC035_SEG0015,REC035,SPK002,train,vad_v1,125.56,137.96,12.4,data/processed/segments/REC035/REC035_SEG0015.wav,included,,no
-REC035_SEG0016,REC035,SPK002,train,vad_v1,138.232,145.928,7.696,data/processed/segments/REC035/REC035_SEG0016.wav,included,,no
-REC035_SEG0017,REC035,SPK002,train,vad_v1,146.52,160.104,13.584,data/processed/segments/REC035/REC035_SEG0017.wav,included,,no
-REC035_SEG0018,REC035,SPK002,train,vad_v1,161.304,172.584,11.28,data/processed/segments/REC035/REC035_SEG0018.wav,included,,no
+REC035_SEG0001,REC035,SPK002,train,vad_v1,0.664,8.04,7.376,data/processed/segments/REC035/REC035_SEG0001.wav,included,azul ayṭma suyṭma ssitemeɣ atirim mliḥ akiwem umaḍkum ayyub nhara giɣ taqedjabut,yes
+REC035_SEG0002,REC035,SPK002,train,vad_v1,9.208,17.32,8.112,data/processed/segments/REC035/REC035_SEG0002.wav,included,sfekkarayad umi ira nteɛya gi ṭemzi ita ntegas ṭaqedjabut nteɛya bulaṭ niɣ nṭeɛya trumbuw nteg ṭaqedjabut,yes
+REC035_SEG0003,REC035,SPK002,train,vad_v1,18.584,28.776,10.192,data/processed/segments/REC035/REC035_SEG0003.wav,included,ṭaqedjabut ytegid xelli d ijjen umedukker inu qanas acraf axmi ytɛya gitarra yteged rbɛaḍ n vidiyuṭ iqqaras iqqaraneɣd qa teggeɣd ṭaqedjabut,yes
+REC035_SEG0004,REC035,SPK002,train,vad_v1,30.712,39.176,8.464,data/processed/segments/REC035/REC035_SEG0004.wav,included,emi kumenniɣ d taqjabut mizi wazzuɣ bu aḍgeɣ vidyu wazzuɣ bu aḍgeɣ pudkast azzuɣ anessiwer ciḥaja anemhawad,yes
+REC035_SEG0005,REC035,SPK002,train,vad_v1,40.12,41.64,1.52,data/processed/segments/REC035/REC035_SEG0005.wav,included,aneg ijjen tɣimit,yes
+REC035_SEG0006,REC035,SPK002,train,vad_v1,41.976,55.112,13.136,data/processed/segments/REC035/REC035_SEG0006.wav,included,am cɣer ṭeqqimed ag cin umdduker nkum niɣ ak ijjen zi familya temhawaḍem x rebɛaḍ n tmesrayin i idja thimmant thimmataneɣ necnin ṣḥab arif ṭawa n arif yessis n arif ṭaxrasta ṭamezgarut,yes
+REC035_SEG0007,REC035,SPK002,train,vad_v1,55.608,62.984,7.376,data/processed/segments/REC035/REC035_SEG0007.wav,included,azzuɣ ad ssiwer x xires n trifiṭ niɣ x lluɣa rrifiya lluɣa nṭirifiṭ,yes
+REC035_SEG0008,REC035,SPK002,train,vad_v1,65.272,72.936,7.664,data/processed/segments/REC035/REC035_SEG0008.wav,included,maɣa dixdaɣ itsemma lmuḍuɛa wanitin i ṭexerast tamezdarut mizi ruxa setesnin zggʷami kenniw ṭessnem,yes
+REC035_SEG0009,REC035,SPK002,train,vad_v1,73.432,82.536,9.104,data/processed/segments/REC035/REC035_SEG0009.wav,included,tegeɣ vidyuṭ cway n tzemma tiquḍaḍin ssermaḍeɣ iress n tmaziɣṭ i yewdan iṭippaḍren,yes
+REC035_SEG0010,REC035,SPK002,train,vad_v1,82.68,93.224,10.544,data/processed/segments/REC035/REC035_SEG0010.wav,included,min baynihim rux ṣḥab dyaṣpura dduzyam jinerasyun dyaṣpura yenni i djan paḍren iress n lwalidin nsen niɣ n rejdud nsen,yes
+REC035_SEG0011,REC035,SPK002,train,vad_v1,94.84,98.6,3.76,data/processed/segments/REC035/REC035_SEG0011.wav,included,u nhara niɣas anssiwer ciḥaja x lluɣa niɣ x ires,yes
+REC035_SEG0012,REC035,SPK002,train,vad_v1,99.928,108.712,8.784,data/processed/segments/REC035/REC035_SEG0012.wav,included,lluɣa nettaṭ ḍ ijjen abiying ijjen lmexluq i ydja yedda,yes
+REC035_SEG0013,REC035,SPK002,train,vad_v1,109.784,112.488,2.704,data/processed/segments/REC035/REC035_SEG0013.wav,included,ma meɛna yedda yaɛni,yes
+REC035_SEG0014,REC035,SPK002,train,vad_v1,112.792,125.064,12.272,data/processed/segments/REC035/REC035_SEG0014.wav,included,ilɣuswa i il imi deteɣem s tfransist iɛni itic esteqbaled rebɛaḍ n lkalimat niɣ rbɛad n letiɣm niɣ rbɛad n lizikseprisun,yes
+REC035_SEG0015,REC035,SPK002,train,vad_v1,125.56,137.96,12.4,data/processed/segments/REC035/REC035_SEG0015.wav,included,u manaya itentabaq x kulci lluɣaṭ lɛalam ikmer ṭafransist ak ḍ glinziṭ ṭafransisṭ ak ṭṣpanyutḍ ṣpanyu ak ak ṭitaleṭ xususan lluɣaṭ i gidjant,yes
+REC035_SEG0016,REC035,SPK002,train,vad_v1,138.232,145.928,7.696,data/processed/segments/REC035/REC035_SEG0016.wav,included,lluɣaṭ n dduwal i gidjan uḍsent a wayawya maɣa minzi tiri din ijjen n interkambyu tiri ḍin ijjen n lecunj,yes
+REC035_SEG0017,REC035,SPK002,train,vad_v1,146.52,160.104,13.584,data/processed/segments/REC035/REC035_SEG0017.wav,included,u ṭarifiṭ udji bu d leksepsyun xli ṭarifiṭ xli d nettaṭ ḍ ijjen n lluɣa i gi dja ssiwrent rejduḍ nneɣ ḍruruf tsemma n wussan niṭni ssawaren s ṭrifiṭ,yes
+REC035_SEG0018,REC035,SPK002,train,vad_v1,161.304,172.584,11.28,data/processed/segments/REC035/REC035_SEG0018.wav,included,u ṭarifit xelli d nettat ṭuwid rebɛaḍ n litiɣm zi abara zi ṭeṣpanyut zi ṭeɛrabṭ zi ṭfransisṭ zi bezzaf n lluɣaṭ,yes
 REC035_SEG0019,REC035,SPK002,train,vad_v1,173.912,176.168,2.256,data/processed/segments/REC035/REC035_SEG0019.wav,rejected,,no
-REC035_SEG0020,REC035,SPK002,train,vad_v1,177.304,183.176,5.872,data/processed/segments/REC035/REC035_SEG0020.wav,included,,no
-REC035_SEG0021,REC035,SPK002,train,vad_v1,183.736,192.296,8.56,data/processed/segments/REC035/REC035_SEG0021.wav,included,,no
-REC035_SEG0022,REC035,SPK002,train,vad_v1,192.664,204.488,11.824,data/processed/segments/REC035/REC035_SEG0022.wav,included,,no
-REC035_SEG0023,REC035,SPK002,train,vad_v1,205.56,213.288,7.728,data/processed/segments/REC035/REC035_SEG0023.wav,included,,no
-REC035_SEG0024,REC035,SPK002,train,vad_v1,214.36,216.488,2.128,data/processed/segments/REC035/REC035_SEG0024.wav,included,,no
-REC035_SEG0025,REC035,SPK002,train,vad_v1,217.432,229.32,11.888,data/processed/segments/REC035/REC035_SEG0025.wav,included,,no
-REC035_SEG0026,REC035,SPK002,train,vad_v1,229.592,238.728,9.136,data/processed/segments/REC035/REC035_SEG0026.wav,included,,no
-REC035_SEG0027,REC035,SPK002,train,vad_v1,239.416,253.32,13.904,data/processed/segments/REC035/REC035_SEG0027.wav,included,,no
-REC035_SEG0028,REC035,SPK002,train,vad_v1,253.592,260.488,6.896,data/processed/segments/REC035/REC035_SEG0028.wav,included,,no
-REC035_SEG0029,REC035,SPK002,train,vad_v1,261.368,265.416,4.048,data/processed/segments/REC035/REC035_SEG0029.wav,included,,no
-REC035_SEG0030,REC035,SPK002,train,vad_v1,265.88,278.984,13.104,data/processed/segments/REC035/REC035_SEG0030.wav,included,,no
-REC035_SEG0031,REC035,SPK002,train,vad_v1,279.512,283.368,3.856,data/processed/segments/REC035/REC035_SEG0031.wav,included,,no
-REC035_SEG0032,REC035,SPK002,train,vad_v1,284.184,295.624,11.44,data/processed/segments/REC035/REC035_SEG0032.wav,included,,no
-REC035_SEG0033,REC035,SPK002,train,vad_v1,296.504,299.816,3.312,data/processed/segments/REC035/REC035_SEG0033.wav,included,,no
-REC035_SEG0034,REC035,SPK002,train,vad_v1,300.568,302.248,1.68,data/processed/segments/REC035/REC035_SEG0034.wav,included,,no
-REC035_SEG0035,REC035,SPK002,train,vad_v1,303.64,308.2,4.56,data/processed/segments/REC035/REC035_SEG0035.wav,included,,no
-REC035_SEG0036,REC035,SPK002,train,vad_v1,309.144,313.8,4.656,data/processed/segments/REC035/REC035_SEG0036.wav,included,,no
-REC035_SEG0037,REC035,SPK002,train,vad_v1,314.392,324.136,9.744,data/processed/segments/REC035/REC035_SEG0037.wav,included,,no
-REC035_SEG0038,REC035,SPK002,train,vad_v1,325.144,327.784,2.64,data/processed/segments/REC035/REC035_SEG0038.wav,included,,no
-REC035_SEG0039,REC035,SPK002,train,vad_v1,328.632,338.632,10.0,data/processed/segments/REC035/REC035_SEG0039.wav,included,,no
-REC035_SEG0040,REC035,SPK002,train,vad_v1,339.384,345.832,6.448,data/processed/segments/REC035/REC035_SEG0040.wav,included,,no
-REC035_SEG0041,REC035,SPK002,train,vad_v1,346.776,354.856,8.08,data/processed/segments/REC035/REC035_SEG0041.wav,included,,no
-REC035_SEG0042,REC035,SPK002,train,vad_v1,355.448,367.56,12.112,data/processed/segments/REC035/REC035_SEG0042.wav,included,,no
-REC035_SEG0043,REC035,SPK002,train,vad_v1,367.992,372.68,4.688,data/processed/segments/REC035/REC035_SEG0043.wav,included,,no
-REC035_SEG0044,REC035,SPK002,train,vad_v1,374.52,375.592,1.072,data/processed/segments/REC035/REC035_SEG0044.wav,included,,no
-REC035_SEG0045,REC035,SPK002,train,vad_v1,376.344,377.608,1.264,data/processed/segments/REC035/REC035_SEG0045.wav,included,,no
-REC035_SEG0046,REC035,SPK002,train,vad_v1,379.608,385.672,6.064,data/processed/segments/REC035/REC035_SEG0046.wav,included,,no
-REC035_SEG0047,REC035,SPK002,train,vad_v1,386.84,388.424,1.584,data/processed/segments/REC035/REC035_SEG0047.wav,included,,no
-REC035_SEG0048,REC035,SPK002,train,vad_v1,389.24,390.504,1.264,data/processed/segments/REC035/REC035_SEG0048.wav,included,,no
-REC035_SEG0049,REC035,SPK002,train,vad_v1,391.192,394.44,3.248,data/processed/segments/REC035/REC035_SEG0049.wav,included,,no
-REC035_SEG0050,REC035,SPK002,train,vad_v1,395.8,399.24,3.44,data/processed/segments/REC035/REC035_SEG0050.wav,included,,no
-REC035_SEG0051,REC035,SPK002,train,vad_v1,400.28,405.864,5.584,data/processed/segments/REC035/REC035_SEG0051.wav,included,,no
-REC035_SEG0052,REC035,SPK002,train,vad_v1,406.52,407.816,1.296,data/processed/segments/REC035/REC035_SEG0052.wav,included,,no
-REC035_SEG0053,REC035,SPK002,train,vad_v1,408.76,413.544,4.784,data/processed/segments/REC035/REC035_SEG0053.wav,included,,no
-REC035_SEG0054,REC035,SPK002,train,vad_v1,414.232,419.624,5.392,data/processed/segments/REC035/REC035_SEG0054.wav,included,,no
-REC035_SEG0055,REC035,SPK002,train,vad_v1,421.08,425.0,3.92,data/processed/segments/REC035/REC035_SEG0055.wav,included,,no
-REC035_SEG0056,REC035,SPK002,train,vad_v1,426.392,430.248,3.856,data/processed/segments/REC035/REC035_SEG0056.wav,included,,no
+REC035_SEG0020,REC035,SPK002,train,vad_v1,177.304,183.176,5.872,data/processed/segments/REC035/REC035_SEG0020.wav,included,iqḍiman qaɛ yufiɣ hwa ijjen llutiɣm aɣarrabu,yes
+REC035_SEG0021,REC035,SPK002,train,vad_v1,183.736,192.296,8.56,data/processed/segments/REC035/REC035_SEG0021.wav,included,aɣarrabu kurci itɣiraneɣ qa d ijjen n ṭtiɣm ijjen n lkalima tarifiṭ niɣ tmazixṭ,yes
+REC035_SEG0022,REC035,SPK002,train,vad_v1,192.664,204.488,11.824,data/processed/segments/REC035/REC035_SEG0022.wav,included,walakin ufiɣ annahu aɣarrabu yusadd zi lluɣa lyunanya akarrabus lluɣa niɣ ires d ijjen lbiying ijjen n lmexluk edjan yedda,yes
+REC035_SEG0023,REC035,SPK002,train,vad_v1,205.56,213.288,7.728,data/processed/segments/REC035/REC035_SEG0023.wav,included,u lluɣa nettaṭ trufelita niɣ ḍ ijjen n tisiṭ n lidentiti,yes
+REC035_SEG0024,REC035,SPK002,train,vad_v1,214.36,216.488,2.128,data/processed/segments/REC035/REC035_SEG0024.wav,included,xmi ssawer xl iduntiti irifiyen,yes
+REC035_SEG0025,REC035,SPK002,train,vad_v1,217.432,229.32,11.888,data/processed/segments/REC035/REC035_SEG0025.wav,included,nessawar x yewḍan ira d imjahḍen ira ddafaɛen x ixefen nsen ɣasen rebɛad n lilinye ɣuj iɛni ɣasen rebɛad n lilimit ɛemmas ma,yes
+REC035_SEG0026,REC035,SPK002,train,vad_v1,229.592,238.728,9.136,data/processed/segments/REC035/REC035_SEG0026.wav,included,jjan ḥed aṭen tiɛda min baynihem lkarama nsen min baynihem ṭamɣaṭ min baynihem ṭammurṭ min baynihem bezzaf n tmesrayin dunk,yes
+REC035_SEG0027,REC035,SPK002,train,vad_v1,239.416,253.32,13.904,data/processed/segments/REC035/REC035_SEG0027.wav,included,lluɣa ṭarifiṭ tɣuflita liduntiti irifiyen u ṭsejeḥ ci i lakummunikasyun waha transmita ijjen n ṭṭariqa nliɛic irifiyen,yes
+REC035_SEG0028,REC035,SPK002,train,vad_v1,253.592,260.488,6.896,data/processed/segments/REC035/REC035_SEG0028.wav,included,transmita ijjen n ṭṭariqa ijjen n lafizyun i rifiyen mux sḥissan mik tfekkan mik txarrasen ila axerih,yes
+REC035_SEG0029,REC035,SPK002,train,vad_v1,261.368,265.416,4.048,data/processed/segments/REC035/REC035_SEG0029.wav,included,iress xelli ḍ netta ɛawed niɣ ṭarifiṭ,yes
+REC035_SEG0030,REC035,SPK002,train,vad_v1,265.88,278.984,13.104,data/processed/segments/REC035/REC035_SEG0030.wav,included,d ijjen n lammi mwaḥ kullektifḍ ijjen n ḍḍakira jamaɛya kul teɣm giḍrifiṭ niɣ ku l pruviɣb niɣ kur izri gi ṭrifiṭ d ijj,yes
+REC035_SEG0031,REC035,SPK002,train,vad_v1,279.512,283.368,3.856,data/processed/segments/REC035/REC035_SEG0031.wav,included,lmuwruṭ nwaṭiṭ zi rjḍuḍ nneɣ,yes
+REC035_SEG0032,REC035,SPK002,train,vad_v1,284.184,295.624,11.44,data/processed/segments/REC035/REC035_SEG0032.wav,included,dags rebɛaḍ n lemɛani dagss rebɛad nnnnn muxasyini lḥikam ḍ unsajes djan rebɛaḍ n lḥikam ḍagsen,yes
+REC035_SEG0033,REC035,SPK002,train,vad_v1,296.504,299.816,3.312,data/processed/segments/REC035/REC035_SEG0033.wav,included,ḍagsen amhaweḍt waha ṭadeḥḥakṭ fahmed,yes
+REC035_SEG0034,REC035,SPK002,train,vad_v1,300.568,302.248,1.68,data/processed/segments/REC035/REC035_SEG0034.wav,included,rbɛaḍi ddagsen izran,yes
+REC035_SEG0035,REC035,SPK002,train,vad_v1,303.64,308.2,4.56,data/processed/segments/REC035/REC035_SEG0035.wav,included,iḍan lluɣa nettaṭ temsaras am am ijjen kart mimwar,yes
+REC035_SEG0036,REC035,SPK002,train,vad_v1,309.144,313.8,4.656,data/processed/segments/REC035/REC035_SEG0036.wav,included,ijjen kart mimwar trunsmitiḍ dages qaɛ min ydjan kultuɣel,yes
+REC035_SEG0037,REC035,SPK002,train,vad_v1,314.392,324.136,9.744,data/processed/segments/REC035/REC035_SEG0037.wav,included,u ṭarifiḍ ɣas lɛalaqa ṭemɣa ak lutiɣitwaɣ lutiɣitwaɣ hiyya ḍ ṭammurṭ arif,yes
+REC035_SEG0038,REC035,SPK002,train,vad_v1,325.144,327.784,2.64,data/processed/segments/REC035/REC035_SEG0038.wav,included,ɣas ijjen laliyezun ṭemɣa ak arif,yes
+REC035_SEG0039,REC035,SPK002,train,vad_v1,328.632,338.632,10.0,data/processed/segments/REC035/REC035_SEG0039.wav,included,maṭalan tafeḍ ibeqquyen ɣasen bezzaf n litaɣm ɣasen lɛalaqa ak rebḥa ayṭwayaɣer ɣasen bezzaf n liteɣm ɣasen lɛalaqa ak jbel,yes
+REC035_SEG0040,REC035,SPK002,train,vad_v1,339.384,345.832,6.448,data/processed/segments/REC035/REC035_SEG0040.wav,included,kur abilaj tafeḍ ɣas rebɛad n litiɣem xassin zzakes netta,yes
+REC035_SEG0041,REC035,SPK002,train,vad_v1,346.776,354.856,8.08,data/processed/segments/REC035/REC035_SEG0041.wav,included,rebɛaḍ n remɛani xassin zzaks netta rebɛaḍ n lizanikdut xassin zzaks netta iḍan ɣaneɣ ijjen ladiveɣsiti,yes
+REC035_SEG0042,REC035,SPK002,train,vad_v1,355.448,367.56,12.112,data/processed/segments/REC035/REC035_SEG0042.wav,included,gi ṭrifiṭ imken atiri nssawar ijjen iress xmi kidkum ssawareɣ djan rebɛad zzak wum ḍibeqquyan rebɛad ddayṭwayaɣer rebɛaḍiṭ ṣḥab temsaman rebɛaḍiṭ ḍaytuzin ilaxirih,yes
+REC035_SEG0043,REC035,SPK002,train,vad_v1,367.992,372.68,4.688,data/processed/segments/REC035/REC035_SEG0043.wav,included,walakin kurci tefhamemmay kulci ṭesnem min azzuɣ adiniɣ,yes
+REC035_SEG0044,REC035,SPK002,train,vad_v1,374.52,375.592,1.072,data/processed/segments/REC035/REC035_SEG0044.wav,included,walakin,yes
+REC035_SEG0045,REC035,SPK002,train,vad_v1,376.344,377.608,1.264,data/processed/segments/REC035/REC035_SEG0045.wav,included,gi nafs rweqṭ,yes
+REC035_SEG0046,REC035,SPK002,train,vad_v1,379.608,385.672,6.064,data/processed/segments/REC035/REC035_SEG0046.wav,included,kur abilaj kur ṭaqbirṭ ɣas rebɛad lmufradaṭ ines weḥeds,yes
+REC035_SEG0047,REC035,SPK002,train,vad_v1,386.84,388.424,1.584,data/processed/segments/REC035/REC035_SEG0047.wav,included,wami dyusa uṣpanyu,yes
+REC035_SEG0048,REC035,SPK002,train,vad_v1,389.24,390.504,1.264,data/processed/segments/REC035/REC035_SEG0048.wav,included,ekriyad,yes
+REC035_SEG0049,REC035,SPK002,train,vad_v1,391.192,394.44,3.248,data/processed/segments/REC035/REC035_SEG0049.wav,included,ṭamdint n lḥusima ṭamdint n lḥusima,yes
+REC035_SEG0050,REC035,SPK002,train,vad_v1,395.8,399.24,3.44,data/processed/segments/REC035/REC035_SEG0050.wav,included,ira udjici qber aspanyu,yes
+REC035_SEG0051,REC035,SPK002,train,vad_v1,400.28,405.864,5.584,data/processed/segments/REC035/REC035_SEG0051.wav,included,ira ḍin rebɛaḍ n beɛda lḥusima ṭusad gi teɣitwaɣ ibeqquyen,yes
+REC035_SEG0052,REC035,SPK002,train,vad_v1,406.52,407.816,1.296,data/processed/segments/REC035/REC035_SEG0052.wav,included,ufi nefs lweqt,yes
+REC035_SEG0053,REC035,SPK002,train,vad_v1,408.76,413.544,4.784,data/processed/segments/REC035/REC035_SEG0053.wav,included,njmɛen dags bezzaf d iwḍan zi bezzaf n redcuraṭ d bezzaf tqebbal,yes
+REC035_SEG0054,REC035,SPK002,train,vad_v1,414.232,419.624,5.392,data/processed/segments/REC035/REC035_SEG0054.wav,included,tafed dags aytemsaman tafed dags ayt ttuzin tafed dags ayṭwayaɣer tafed dags ibeqquyen,yes
+REC035_SEG0055,REC035,SPK002,train,vad_v1,421.08,425.0,3.92,data/processed/segments/REC035/REC035_SEG0055.wav,included,wami njemɛen iwḍana kurci ig idja ira mṣefraqen qber,yes
+REC035_SEG0056,REC035,SPK002,train,vad_v1,426.392,430.248,3.856,data/processed/segments/REC035/REC035_SEG0056.wav,included,sakand ṭarifiṭ i nssawar gi lḥusima,yes
 REC035_SEG0057,REC035,SPK002,train,vad_v1,431.736,433.256,1.52,data/processed/segments/REC035/REC035_SEG0057.wav,included,,no
 REC035_SEG0058,REC035,SPK002,train,vad_v1,433.944,447.208,13.264,data/processed/segments/REC035/REC035_SEG0058.wav,included,,no
 REC035_SEG0059,REC035,SPK002,train,vad_v1,447.768,457.48,9.712,data/processed/segments/REC035/REC035_SEG0059.wav,included,,no
@@ -945,73 +945,73 @@ REC035_SEG0140,REC035,SPK002,train,vad_v1,1098.968,1104.264,5.296,data/processed
 REC035_SEG0141,REC035,SPK002,train,vad_v1,1106.744,1120.36,13.616,data/processed/segments/REC035/REC035_SEG0141.wav,included,,no
 REC035_SEG0142,REC035,SPK002,train,vad_v1,1121.176,1128.328,7.152,data/processed/segments/REC035/REC035_SEG0142.wav,included,,no
 REC035_SEG0143,REC035,SPK002,train,vad_v1,1129.56,1134.421,4.861,data/processed/segments/REC035/REC035_SEG0143.wav,included,,no
-REC036_SEG0001,REC036,SPK002,train,vad_v1,0.312,4.072,3.76,data/processed/segments/REC036/REC036_SEG0001.wav,included,,no
-REC036_SEG0002,REC036,SPK002,train,vad_v1,5.208,14.856,9.648,data/processed/segments/REC036/REC036_SEG0002.wav,included,,no
-REC036_SEG0003,REC036,SPK002,train,vad_v1,16.376,19.592,3.216,data/processed/segments/REC036/REC036_SEG0003.wav,included,,no
-REC036_SEG0004,REC036,SPK002,train,vad_v1,20.28,32.744,12.464,data/processed/segments/REC036/REC036_SEG0004.wav,included,,no
-REC036_SEG0005,REC036,SPK002,train,vad_v1,33.176,35.848,2.672,data/processed/segments/REC036/REC036_SEG0005.wav,included,,no
-REC036_SEG0006,REC036,SPK002,train,vad_v1,37.08,38.632,1.552,data/processed/segments/REC036/REC036_SEG0006.wav,included,,no
-REC036_SEG0007,REC036,SPK002,train,vad_v1,40.376,42.664,2.288,data/processed/segments/REC036/REC036_SEG0007.wav,included,,no
-REC036_SEG0008,REC036,SPK002,train,vad_v1,44.696,48.84,4.144,data/processed/segments/REC036/REC036_SEG0008.wav,included,,no
-REC036_SEG0009,REC036,SPK002,train,vad_v1,50.584,56.936,6.352,data/processed/segments/REC036/REC036_SEG0009.wav,included,,no
-REC036_SEG0010,REC036,SPK002,train,vad_v1,57.976,62.92,4.944,data/processed/segments/REC036/REC036_SEG0010.wav,included,,no
-REC036_SEG0011,REC036,SPK002,train,vad_v1,64.12,68.328,4.208,data/processed/segments/REC036/REC036_SEG0011.wav,included,,no
-REC036_SEG0012,REC036,SPK002,train,vad_v1,69.784,75.08,5.296,data/processed/segments/REC036/REC036_SEG0012.wav,included,,no
-REC036_SEG0013,REC036,SPK002,train,vad_v1,75.992,77.512,1.52,data/processed/segments/REC036/REC036_SEG0013.wav,included,,no
-REC036_SEG0014,REC036,SPK002,train,vad_v1,80.312,84.456,4.144,data/processed/segments/REC036/REC036_SEG0014.wav,included,,no
-REC036_SEG0015,REC036,SPK002,train,vad_v1,85.688,93.16,7.472,data/processed/segments/REC036/REC036_SEG0015.wav,included,,no
-REC036_SEG0016,REC036,SPK002,train,vad_v1,93.944,100.072,6.128,data/processed/segments/REC036/REC036_SEG0016.wav,included,,no
-REC036_SEG0017,REC036,SPK002,train,vad_v1,100.728,104.808,4.08,data/processed/segments/REC036/REC036_SEG0017.wav,included,,no
-REC036_SEG0018,REC036,SPK002,train,vad_v1,106.328,108.744,2.416,data/processed/segments/REC036/REC036_SEG0018.wav,included,,no
-REC036_SEG0019,REC036,SPK002,train,vad_v1,110.264,112.968,2.704,data/processed/segments/REC036/REC036_SEG0019.wav,included,,no
-REC036_SEG0020,REC036,SPK002,train,vad_v1,115.192,116.648,1.456,data/processed/segments/REC036/REC036_SEG0020.wav,included,,no
-REC036_SEG0021,REC036,SPK002,train,vad_v1,117.816,129.48,11.664,data/processed/segments/REC036/REC036_SEG0021.wav,included,,no
-REC036_SEG0022,REC036,SPK002,train,vad_v1,130.872,140.392,9.52,data/processed/segments/REC036/REC036_SEG0022.wav,included,,no
-REC036_SEG0023,REC036,SPK002,train,vad_v1,142.68,144.392,1.712,data/processed/segments/REC036/REC036_SEG0023.wav,included,,no
-REC036_SEG0024,REC036,SPK002,train,vad_v1,145.496,148.04,2.544,data/processed/segments/REC036/REC036_SEG0024.wav,included,,no
-REC036_SEG0025,REC036,SPK002,train,vad_v1,148.76,153.768,5.008,data/processed/segments/REC036/REC036_SEG0025.wav,included,,no
-REC036_SEG0026,REC036,SPK002,train,vad_v1,155.224,161.192,5.968,data/processed/segments/REC036/REC036_SEG0026.wav,included,,no
-REC036_SEG0027,REC036,SPK002,train,vad_v1,163.992,168.936,4.944,data/processed/segments/REC036/REC036_SEG0027.wav,included,,no
-REC036_SEG0028,REC036,SPK002,train,vad_v1,169.912,179.56,9.648,data/processed/segments/REC036/REC036_SEG0028.wav,included,,no
-REC036_SEG0029,REC036,SPK002,train,vad_v1,181.784,183.752,1.968,data/processed/segments/REC036/REC036_SEG0029.wav,included,,no
-REC036_SEG0030,REC036,SPK002,train,vad_v1,185.08,191.528,6.448,data/processed/segments/REC036/REC036_SEG0030.wav,included,,no
-REC036_SEG0031,REC036,SPK002,train,vad_v1,193.656,200.264,6.608,data/processed/segments/REC036/REC036_SEG0031.wav,included,,no
-REC036_SEG0032,REC036,SPK002,train,vad_v1,201.368,202.696,1.328,data/processed/segments/REC036/REC036_SEG0032.wav,included,,no
-REC036_SEG0033,REC036,SPK002,train,vad_v1,204.44,210.984,6.544,data/processed/segments/REC036/REC036_SEG0033.wav,included,,no
-REC036_SEG0034,REC036,SPK002,train,vad_v1,212.248,214.536,2.288,data/processed/segments/REC036/REC036_SEG0034.wav,included,,no
-REC036_SEG0035,REC036,SPK002,train,vad_v1,215.416,228.232,12.816,data/processed/segments/REC036/REC036_SEG0035.wav,included,,no
-REC036_SEG0036,REC036,SPK002,train,vad_v1,229.624,231.112,1.488,data/processed/segments/REC036/REC036_SEG0036.wav,included,,no
-REC036_SEG0037,REC036,SPK002,train,vad_v1,236.312,245.096,8.784,data/processed/segments/REC036/REC036_SEG0037.wav,included,,no
-REC036_SEG0038,REC036,SPK002,train,vad_v1,246.136,251.176,5.04,data/processed/segments/REC036/REC036_SEG0038.wav,included,,no
-REC036_SEG0039,REC036,SPK002,train,vad_v1,252.344,257.224,4.88,data/processed/segments/REC036/REC036_SEG0039.wav,included,,no
-REC036_SEG0040,REC036,SPK002,train,vad_v1,259.032,264.776,5.744,data/processed/segments/REC036/REC036_SEG0040.wav,included,,no
-REC036_SEG0041,REC036,SPK002,train,vad_v1,265.688,269.64,3.952,data/processed/segments/REC036/REC036_SEG0041.wav,included,,no
-REC036_SEG0042,REC036,SPK002,train,vad_v1,270.712,278.568,7.856,data/processed/segments/REC036/REC036_SEG0042.wav,included,,no
-REC036_SEG0043,REC036,SPK002,train,vad_v1,280.536,283.336,2.8,data/processed/segments/REC036/REC036_SEG0043.wav,included,,no
-REC036_SEG0044,REC036,SPK002,train,vad_v1,283.992,286.632,2.64,data/processed/segments/REC036/REC036_SEG0044.wav,included,,no
-REC036_SEG0045,REC036,SPK002,train,vad_v1,287.896,293.96,6.064,data/processed/segments/REC036/REC036_SEG0045.wav,included,,no
-REC036_SEG0046,REC036,SPK002,train,vad_v1,296.856,299.4,2.544,data/processed/segments/REC036/REC036_SEG0046.wav,included,,no
-REC036_SEG0047,REC036,SPK002,train,vad_v1,301.08,304.648,3.568,data/processed/segments/REC036/REC036_SEG0047.wav,included,,no
-REC036_SEG0048,REC036,SPK002,train,vad_v1,305.496,307.016,1.52,data/processed/segments/REC036/REC036_SEG0048.wav,included,,no
-REC036_SEG0049,REC036,SPK002,train,vad_v1,307.928,313.608,5.68,data/processed/segments/REC036/REC036_SEG0049.wav,included,,no
-REC036_SEG0050,REC036,SPK002,train,vad_v1,314.328,317.768,3.44,data/processed/segments/REC036/REC036_SEG0050.wav,included,,no
-REC036_SEG0051,REC036,SPK002,train,vad_v1,319.288,325.192,5.904,data/processed/segments/REC036/REC036_SEG0051.wav,included,,no
-REC036_SEG0052,REC036,SPK002,train,vad_v1,326.84,330.152,3.312,data/processed/segments/REC036/REC036_SEG0052.wav,included,,no
-REC036_SEG0053,REC036,SPK002,train,vad_v1,333.048,337.896,4.848,data/processed/segments/REC036/REC036_SEG0053.wav,included,,no
-REC036_SEG0054,REC036,SPK002,train,vad_v1,339.928,344.936,5.008,data/processed/segments/REC036/REC036_SEG0054.wav,included,,no
-REC036_SEG0055,REC036,SPK002,train,vad_v1,347.256,349.576,2.32,data/processed/segments/REC036/REC036_SEG0055.wav,included,,no
-REC036_SEG0056,REC036,SPK002,train,vad_v1,351.192,352.84,1.648,data/processed/segments/REC036/REC036_SEG0056.wav,included,,no
-REC036_SEG0057,REC036,SPK002,train,vad_v1,353.752,359.432,5.68,data/processed/segments/REC036/REC036_SEG0057.wav,included,,no
-REC036_SEG0058,REC036,SPK002,train,vad_v1,361.304,364.744,3.44,data/processed/segments/REC036/REC036_SEG0058.wav,included,,no
-REC036_SEG0059,REC036,SPK002,train,vad_v1,365.72,368.488,2.768,data/processed/segments/REC036/REC036_SEG0059.wav,included,,no
-REC036_SEG0060,REC036,SPK002,train,vad_v1,369.432,370.92,1.488,data/processed/segments/REC036/REC036_SEG0060.wav,included,,no
-REC036_SEG0061,REC036,SPK002,train,vad_v1,372.504,374.728,2.224,data/processed/segments/REC036/REC036_SEG0061.wav,included,,no
-REC036_SEG0062,REC036,SPK002,train,vad_v1,377.144,385.096,7.952,data/processed/segments/REC036/REC036_SEG0062.wav,included,,no
-REC036_SEG0063,REC036,SPK002,train,vad_v1,386.232,392.872,6.64,data/processed/segments/REC036/REC036_SEG0063.wav,included,,no
-REC036_SEG0064,REC036,SPK002,train,vad_v1,394.2,395.656,1.456,data/processed/segments/REC036/REC036_SEG0064.wav,included,,no
-REC036_SEG0065,REC036,SPK002,train,vad_v1,397.208,401.416,4.208,data/processed/segments/REC036/REC036_SEG0065.wav,included,,no
-REC036_SEG0066,REC036,SPK002,train,vad_v1,402.936,407.592,4.656,data/processed/segments/REC036/REC036_SEG0066.wav,included,,no
-REC036_SEG0067,REC036,SPK002,train,vad_v1,408.28,416.904,8.624,data/processed/segments/REC036/REC036_SEG0067.wav,included,,no
+REC036_SEG0001,REC036,SPK002,train,vad_v1,0.312,4.072,3.76,data/processed/segments/REC036/REC036_SEG0001.wav,included,azul ayṭma suyṭma ssitemeɣ atirim mliḥ akiwem umaḍkum ayyub,yes
+REC036_SEG0002,REC036,SPK002,train,vad_v1,5.208,14.856,9.648,data/processed/segments/REC036/REC036_SEG0002.wav,included,gi ṭɣimitta amux ḍacum nniɣ a nessiwer x min ḍaneɣ dejjan rejdud nneɣ niɣ lmuwruṭ niɣ min nwaṭ zagsen niɣ min ixessa anwadṭ zagsen,yes
+REC036_SEG0003,REC036,SPK002,train,vad_v1,16.376,19.592,3.216,data/processed/segments/REC036/REC036_SEG0003.wav,included,gi ṭɣimitta a nssiwer gi cinn tmesrayin udjɣent cway,yes
+REC036_SEG0004,REC036,SPK002,train,vad_v1,20.28,32.744,12.464,data/processed/segments/REC036/REC036_SEG0004.wav,included,gi ḍmesrayin igijjan zzaknaɣ yḍu ḍarifi niɣ lmujtamaɛ arifi ira nessen azzuɣ azzakkʷum talbeɣ ict tmesrayṭ mara iɛejbakum tsemma ṭiɣimiṭina iɛejbakum min teg,yes
+REC036_SEG0005,REC036,SPK002,train,vad_v1,33.176,35.848,2.672,data/processed/segments/REC036/REC036_SEG0005.wav,included,partajamṭent ak yiwdan ḥma adsedjen i min neqqa,yes
+REC036_SEG0006,REC036,SPK002,train,vad_v1,37.08,38.632,1.552,data/processed/segments/REC036/REC036_SEG0006.wav,included,imken asen xelli ḍ niṭni,yes
+REC036_SEG0007,REC036,SPK002,train,vad_v1,40.376,42.664,2.288,data/processed/segments/REC036/REC036_SEG0007.wav,included,u ssitimaɣ akum yeɛjeb xelli ḍ kenniw,yes
+REC036_SEG0008,REC036,SPK002,train,vad_v1,44.696,48.84,4.144,data/processed/segments/REC036/REC036_SEG0008.wav,included,amux ṭesneḍ ṭṭaqafa la kultur,yes
+REC036_SEG0009,REC036,SPK002,train,vad_v1,50.584,56.936,6.352,data/processed/segments/REC036/REC036_SEG0009.wav,included,udji ci ḍ izran waha niɣ d ḍiɣennijan niɣ ḍ reɣḍa ineddar niɣ inras,yes
+REC036_SEG0010,REC036,SPK002,train,vad_v1,57.976,62.92,4.944,data/processed/segments/REC036/REC036_SEG0010.wav,included,ṭṭaqafa ḍ mux ytiḍar niɣ mux ytiɛic yijjen wayḍuṭ,yes
+REC036_SEG0011,REC036,SPK002,train,vad_v1,64.12,68.328,4.208,data/processed/segments/REC036/REC036_SEG0011.wav,included,mux itemɛamal wayḍud nni ag iwḍan jan iwḍan ines ag iwḍan nedden,yes
+REC036_SEG0012,REC036,SPK002,train,vad_v1,69.784,75.08,5.296,data/processed/segments/REC036/REC036_SEG0012.wav,included,am ɛawen u wayḍuḍ nni ḍwa umi neqqa lmuruṭ lejtimaɛi tsemma min nwaṭ,yes
+REC036_SEG0013,REC036,SPK002,train,vad_v1,75.992,77.512,1.52,data/processed/segments/REC036/REC036_SEG0013.wav,included,zi rejdud neɣ,yes
+REC036_SEG0014,REC036,SPK002,train,vad_v1,80.312,84.456,4.144,data/processed/segments/REC036/REC036_SEG0014.wav,included,nhara wiɣakumd ijjen n lka qqanas valensyana,yes
+REC036_SEG0015,REC036,SPK002,train,vad_v1,85.688,93.16,7.472,data/processed/segments/REC036/REC036_SEG0015.wav,included,yenni gesnen valensyana uqqimen ci bezzaf necc sedjeɣ tsemma jeddi ḥenna ḍinaṭ ssawaren x valensyana,yes
+REC036_SEG0016,REC036,SPK002,train,vad_v1,93.944,100.072,6.128,data/processed/segments/REC036/REC036_SEG0016.wav,included,lkara wanitin aneɣ yawi ɣa rejḍuḍ nneɣ anza mux ira ddan mux ira tiɛicen,yes
+REC036_SEG0017,REC036,SPK002,train,vad_v1,100.728,104.808,4.08,data/processed/segments/REC036/REC036_SEG0017.wav,included,d min ijjin zzegsen iwḍan nni gibnan arif inessen,yes
+REC036_SEG0018,REC036,SPK002,train,vad_v1,106.328,108.744,2.416,data/processed/segments/REC036/REC036_SEG0018.wav,included,arif nneɣ i ɣaneɣ iɛiz,yes
+REC036_SEG0019,REC036,SPK002,train,vad_v1,110.264,112.968,2.704,data/processed/segments/REC036/REC036_SEG0019.wav,included,arif igi djan nebda ntefqaḍiṭ rux,yes
+REC036_SEG0020,REC036,SPK002,train,vad_v1,115.192,116.648,1.456,data/processed/segments/REC036/REC036_SEG0020.wav,included,akum bḍiɣ s umɛawen,yes
+REC036_SEG0021,REC036,SPK002,train,vad_v1,117.816,129.48,11.664,data/processed/segments/REC036/REC036_SEG0021.wav,included,amɛawen igidjan ijjen z g pilan n wayḍu ḍarifi zi rururuf n wessan u min bayn tsemma amɛawenna ad nebḍa s ṭwiza,yes
+REC036_SEG0022,REC036,SPK002,train,vad_v1,130.872,140.392,9.52,data/processed/segments/REC036/REC036_SEG0022.wav,included,mizi ṭwija d nettaṭ i gi twessan gi arif amen ekmer axmi yazzu ḥed ad eṣsawar ḍ ṭamurṭ niɣ ad imjar,yes
+REC036_SEG0023,REC036,SPK002,train,vad_v1,142.68,144.392,1.712,data/processed/segments/REC036/REC036_SEG0023.wav,included,ṭewiza tfekkayas ṭimesrayen,yes
+REC036_SEG0024,REC036,SPK002,train,vad_v1,145.496,148.04,2.544,data/processed/segments/REC036/REC036_SEG0024.wav,included,tnejmaɛend iwḍan n dca temɛawanen akis,yes
+REC036_SEG0025,REC036,SPK002,train,vad_v1,148.76,153.768,5.008,data/processed/segments/REC036/REC036_SEG0025.wav,included,ḍanitin investment niɣ lestiṭmar n ayṭbab n dcar,yes
+REC036_SEG0026,REC036,SPK002,train,vad_v1,155.224,161.192,5.968,data/processed/segments/REC036/REC036_SEG0026.wav,included,ḍi rweqṭ nsen udjibu d tinɛacin lla ḍ rweqṭ ttiḍi nsen,yes
+REC036_SEG0027,REC036,SPK002,train,vad_v1,163.992,168.936,4.944,data/processed/segments/REC036/REC036_SEG0027.wav,included,ṭwizaṭ ṭemmadjaneɣ ijjen n tmesrayṭ rejḍuḍ nneɣ ujjin ḥedd weḥeḍes,yes
+REC036_SEG0028,REC036,SPK002,train,vad_v1,169.912,179.56,9.648,data/processed/segments/REC036/REC036_SEG0028.wav,included,niɣ amux inna xalid izri aḍrar mara nisiṭ akis naca efsus iɛni aḍrar niɣ jbel mara neksiṭ s ṭwiza akis naka efsus,yes
+REC036_SEG0029,REC036,SPK002,train,vad_v1,181.784,183.752,1.968,data/processed/segments/REC036/REC036_SEG0029.wav,included,ṭamserayṭ wiss nnayen d gumɛawen,yes
+REC036_SEG0030,REC036,SPK002,train,vad_v1,185.08,191.528,6.448,data/processed/segments/REC036/REC036_SEG0030.wav,included,bra ṭwiza rejduḍ nneɣ ira ssiɣan isuɣaren nsen niɣ materyal nsen i wenni iṭiḥrajjen,yes
+REC036_SEG0031,REC036,SPK002,train,vad_v1,193.656,200.264,6.608,data/processed/segments/REC036/REC036_SEG0031.wav,included,ssiɣa n nqayer nesjur niɣ ḍ plantaṭ i wayawya mara ufan ḥed iḥrajjiṭenṭ,yes
+REC036_SEG0032,REC036,SPK002,train,vad_v1,201.368,202.696,1.328,data/processed/segments/REC036/REC036_SEG0032.wav,included,manaya nfeqḍiṭ rux,yes
+REC036_SEG0033,REC036,SPK002,train,vad_v1,204.44,210.984,6.544,data/processed/segments/REC036/REC036_SEG0033.wav,included,nettaṭ maṭalan ṭnayen lmmuḥal n ttijara mara ḥed zzagsen eḥraj cin tmesrayṭ wnedden adtisnufa zzagsen,yes
+REC036_SEG0034,REC036,SPK002,train,vad_v1,212.248,214.536,2.288,data/processed/segments/REC036/REC036_SEG0034.wav,included,niɣ mara yusad cin kelliyenti yazzu cin,yes
+REC036_SEG0035,REC036,SPK002,train,vad_v1,215.416,228.232,12.816,data/processed/segments/REC036/REC036_SEG0035.wav,included,cin tmesrayeṭ reɣda niɣ cin tmesrayṭ tmecca iqqaras may wa uɣayedji ci hiwa mayɣa tafeɣ iqqaras wa lmuhim ussineɣ ussineɣ wac atafeḍ ɣaren da gi lḥusima niɣ lla netta tira aqeṭ a wajja ines,yes
+REC036_SEG0036,REC036,SPK002,train,vad_v1,229.624,231.112,1.488,data/processed/segments/REC036/REC036_SEG0036.wav,included,manaya nfeqdiṭ bezzaf,yes
+REC036_SEG0037,REC036,SPK002,train,vad_v1,236.312,245.096,8.784,data/processed/segments/REC036/REC036_SEG0037.wav,included,ḍin amɛawen niɣ ṭiwizawin d gi refruḥ mani ira tnejmaɛ ṭeqbicṭ tekkmer niɣ familya n mulay d tesriṭ,yes
+REC036_SEG0038,REC036,SPK002,train,vad_v1,246.136,251.176,5.04,data/processed/segments/REC036/REC036_SEG0038.wav,included,niɣ iwdan iṭen dijawan teggen kur nha rfaḥ ɣa yejjen zzagsen,yes
+REC036_SEG0039,REC036,SPK002,train,vad_v1,252.344,257.224,4.88,data/processed/segments/REC036/REC036_SEG0039.wav,included,maɣa ḥma aḍ ssefsusen x mulay d tesriṭ igi dja yallah bdan ṭuḍaṭ nsen,yes
+REC036_SEG0040,REC036,SPK002,train,vad_v1,259.032,264.776,5.744,data/processed/segments/REC036/REC036_SEG0040.wav,included,ṭamɛawent niɣ ṭwiza ira teggent xelli x ibujiren xelli x ṭyijjar,yes
+REC036_SEG0041,REC036,SPK002,train,vad_v1,265.688,269.64,3.952,data/processed/segments/REC036/REC036_SEG0041.wav,included,tsexxanasend scanṭen aṭen sseswen aṭen sseḍren,yes
+REC036_SEG0042,REC036,SPK002,train,vad_v1,270.712,278.568,7.856,data/processed/segments/REC036/REC036_SEG0042.wav,included,ayṭbab n dca niɣ familya jarasen ḥetta demɣarn iḥuḍriyen nni aduwren d yagazen ruxennit adxeḍmen x ixefensen,yes
+REC036_SEG0043,REC036,SPK002,train,vad_v1,280.536,283.336,2.8,data/processed/segments/REC036/REC036_SEG0043.wav,included,s manaya mizi ira djan rejḍuḍ nneɣ bedden,yes
+REC036_SEG0044,REC036,SPK002,train,vad_v1,283.992,286.632,2.64,data/processed/segments/REC036/REC036_SEG0044.wav,included,wa ytɛawan wa wa yessiɣa fus i wa,yes
+REC036_SEG0045,REC036,SPK002,train,vad_v1,287.896,293.96,6.064,data/processed/segments/REC036/REC036_SEG0045.wav,included,ḍin ijjen wawar seglinziṭ ixsa adyinni manaya qanas billunigin niɣ lintima,yes
+REC036_SEG0046,REC036,SPK002,train,vad_v1,296.856,299.4,2.544,data/processed/segments/REC036/REC036_SEG0046.wav,included,d manaya mizi nesḥissa ira ḍirifiyen,yes
+REC036_SEG0047,REC036,SPK002,train,vad_v1,301.08,304.648,3.568,data/processed/segments/REC036/REC036_SEG0047.wav,included,ataf txelli iḥamucen tsemma iḥuḍeriyen,yes
+REC036_SEG0048,REC036,SPK002,train,vad_v1,305.496,307.016,1.52,data/processed/segments/REC036/REC036_SEG0048.wav,included,aqen gi ijjen n ccariɛ,yes
+REC036_SEG0049,REC036,SPK002,train,vad_v1,307.928,313.608,5.68,data/processed/segments/REC036/REC036_SEG0049.wav,included,maṭalan ksend aḍ kifen ad yeɛḍa cin ijjen waxxa udji bu d familiya nsen qaɛ,yes
+REC036_SEG0050,REC036,SPK002,train,vad_v1,314.328,317.768,3.44,data/processed/segments/REC036/REC036_SEG0050.wav,included,wedji bu dajja nsen tsemma ḍajja wah usen diteɛni ci,yes
+REC036_SEG0051,REC036,SPK002,train,vad_v1,319.288,325.192,5.904,data/processed/segments/REC036/REC036_SEG0051.wav,included,asenn iɛan ciḥaja iseqqiren aṭen inebbeh imken ad issiwer ag lwalidin nsen,yes
+REC036_SEG0052,REC036,SPK002,train,vad_v1,326.84,330.152,3.312,data/processed/segments/REC036/REC036_SEG0052.wav,included,s manaya ira nesḥissa aqaneɣ tsemma am cɣer d ijjen n familya,yes
+REC036_SEG0053,REC036,SPK002,train,vad_v1,333.048,337.896,4.848,data/processed/segments/REC036/REC036_SEG0053.wav,included,ijjen n tmesrayeṭ nnedden jjanaɣtid rejduḍ nneɣ ḍ aweqqa,yes
+REC036_SEG0054,REC036,SPK002,train,vad_v1,339.928,344.936,5.008,data/processed/segments/REC036/REC036_SEG0054.wav,included,aweqqar udjibu ḍ isem aweqqar ḍ abriḍ z gg briḍen n tuḍaṭ,yes
+REC036_SEG0055,REC036,SPK002,train,vad_v1,347.256,349.576,2.32,data/processed/segments/REC036/REC036_SEG0055.wav,included,amezgaru aweqqar n familya,yes
+REC036_SEG0056,REC036,SPK002,train,vad_v1,351.192,352.84,1.648,data/processed/segments/REC036/REC036_SEG0056.wav,included,mara menɣen ṭnayen iḍsen,yes
+REC036_SEG0057,REC036,SPK002,train,vad_v1,353.752,359.432,5.68,data/processed/segments/REC036/REC036_SEG0057.wav,included,ira ɛemmas asen tsedjeḍ jebbḍend niɣ tukkan ayaweya s familya nsen,yes
+REC036_SEG0058,REC036,SPK002,train,vad_v1,361.304,364.744,3.44,data/processed/segments/REC036/REC036_SEG0058.wav,included,ira mara kkand akis familya nni,yes
+REC036_SEG0059,REC036,SPK002,train,vad_v1,365.72,368.488,2.768,data/processed/segments/REC036/REC036_SEG0059.wav,included,nreɛdu ines ytweqqariṭen,yes
+REC036_SEG0060,REC036,SPK002,train,vad_v1,369.432,370.92,1.488,data/processed/segments/REC036/REC036_SEG0060.wav,included,irara xasen ssalam,yes
+REC036_SEG0061,REC036,SPK002,train,vad_v1,372.504,374.728,2.224,data/processed/segments/REC036/REC036_SEG0061.wav,included,ḍin aweqqar yiwḍan inumɣan,yes
+REC036_SEG0062,REC036,SPK002,train,vad_v1,377.144,385.096,7.952,data/processed/segments/REC036/REC036_SEG0062.wav,included,gi yarif ira iwḍan inumɣan awar nsen itwaḥettaram bezzaf mara ssiwren gi rmejmaɛ rmejmaɛ ikmer iṣɣuḍa,yes
+REC036_SEG0063,REC036,SPK002,train,vad_v1,386.232,392.872,6.64,data/processed/segments/REC036/REC036_SEG0063.wav,included,ira mara ɛḍand attaf inek ixessa asen tzureḍ ajedjif niɣ asen tzureḍ fus ḍwa umi qqan aweqqar,yes
+REC036_SEG0064,REC036,SPK002,train,vad_v1,394.2,395.656,1.456,data/processed/segments/REC036/REC036_SEG0064.wav,included,manaya nfeqdiṭ bezzaf,yes
+REC036_SEG0065,REC036,SPK002,train,vad_v1,397.208,401.416,4.208,data/processed/segments/REC036/REC036_SEG0065.wav,included,ḍin aweqqa n jmaɛeṭ aweqqa n jmaɛeṭ ḍ ijjen tmutru,yes
+REC036_SEG0066,REC036,SPK002,train,vad_v1,402.936,407.592,4.656,data/processed/segments/REC036/REC036_SEG0066.wav,included,mizi qber madyaḍef uṣpanyu ira kur ṭaqbirṭ ɣas jmaɛeṭ ines,yes
+REC036_SEG0067,REC036,SPK002,train,vad_v1,408.28,416.904,8.624,data/processed/segments/REC036/REC036_SEG0067.wav,included,jmaɛeṭ nni d nettat igi teḥkamen gi teqbirṭ nni ḍ nettat i gissawaren s isem n teqbirṭ nni imezḍaɣ n dcar nni niɣ nn dcuraṭ,yes
 REC036_SEG0068,REC036,SPK002,train,vad_v1,418.136,426.952,8.816,data/processed/segments/REC036/REC036_SEG0068.wav,included,,no
 REC036_SEG0069,REC036,SPK002,train,vad_v1,429.272,438.984,9.712,data/processed/segments/REC036/REC036_SEG0069.wav,included,,no
 REC036_SEG0070,REC036,SPK002,train,vad_v1,439.864,443.464,3.6,data/processed/segments/REC036/REC036_SEG0070.wav,included,,no
@@ -1059,19 +1059,19 @@ REC036_SEG0111,REC036,SPK002,train,vad_v1,702.36,703.368,1.008,data/processed/se
 REC036_SEG0112,REC036,SPK002,train,vad_v1,704.6,706.568,1.968,data/processed/segments/REC036/REC036_SEG0112.wav,included,,no
 REC036_SEG0113,REC036,SPK002,train,vad_v1,707.32,709.192,1.872,data/processed/segments/REC036/REC036_SEG0113.wav,included,,no
 REC037_SEG0001,REC037,SPK002,train,vad_v1,2.136,6.12,3.984,data/processed/segments/REC037/REC037_SEG0001.wav,included,,no
-REC037_SEG0002,REC037,SPK002,train,vad_v1,7.992,9.896,1.904,data/processed/segments/REC037/REC037_SEG0002.wav,included,,no
-REC037_SEG0003,REC037,SPK002,train,vad_v1,10.68,19.976,9.296,data/processed/segments/REC037/REC037_SEG0003.wav,included,,no
-REC037_SEG0004,REC037,SPK002,train,vad_v1,22.072,25.128,3.056,data/processed/segments/REC037/REC037_SEG0004.wav,included,,no
+REC037_SEG0002,REC037,SPK002,train,vad_v1,7.992,9.896,1.904,data/processed/segments/REC037/REC037_SEG0002.wav,included,ɛemmas utesseqsim ixefenkum,yes
+REC037_SEG0003,REC037,SPK002,train,vad_v1,10.68,19.976,9.296,data/processed/segments/REC037/REC037_SEG0003.wav,included,mux ɣa deffɣen idellisen niɣ lektub n miden yurin sseglinziṭ niɣ s fransisṭ niɣ s ccin luɣa nnedden mux ɣa yerin s ṭrifiṭ,yes
+REC037_SEG0004,REC037,SPK002,train,vad_v1,22.072,25.128,3.056,data/processed/segments/REC037/REC037_SEG0004.wav,included,txilemd akidi lkitab nlitel prins,yes
 REC037_SEG0005,REC037,SPK002,train,vad_v1,25.848,31.528,5.68,data/processed/segments/REC037/REC037_SEG0005.wav,rejected,,no
-REC037_SEG0006,REC037,SPK002,train,vad_v1,32.184,34.248,2.064,data/processed/segments/REC037/REC037_SEG0006.wav,included,,no
-REC037_SEG0007,REC037,SPK002,train,vad_v1,34.968,37.992,3.024,data/processed/segments/REC037/REC037_SEG0007.wav,included,,no
-REC037_SEG0008,REC037,SPK002,train,vad_v1,41.016,45.576,4.56,data/processed/segments/REC037/REC037_SEG0008.wav,included,,no
-REC037_SEG0009,REC037,SPK002,train,vad_v1,47.768,50.376,2.608,data/processed/segments/REC037/REC037_SEG0009.wav,included,,no
-REC037_SEG0010,REC037,SPK002,train,vad_v1,52.216,54.632,2.416,data/processed/segments/REC037/REC037_SEG0010.wav,included,,no
-REC037_SEG0011,REC037,SPK002,train,vad_v1,57.24,58.504,1.264,data/processed/segments/REC037/REC037_SEG0011.wav,included,,no
-REC037_SEG0012,REC037,SPK002,train,vad_v1,59.16,64.712,5.552,data/processed/segments/REC037/REC037_SEG0012.wav,included,,no
-REC037_SEG0013,REC037,SPK002,train,vad_v1,66.712,80.328,13.616,data/processed/segments/REC037/REC037_SEG0013.wav,included,,no
-REC037_SEG0014,REC037,SPK002,train,vad_v1,82.296,85.768,3.472,data/processed/segments/REC037/REC037_SEG0014.wav,included,,no
+REC037_SEG0006,REC037,SPK002,train,vad_v1,32.184,34.248,2.064,data/processed/segments/REC037/REC037_SEG0006.wav,included,mara nurit s ṭrifiṭ aḍaneɣ tuc,yes
+REC037_SEG0007,REC037,SPK002,train,vad_v1,34.968,37.992,3.024,data/processed/segments/REC037/REC037_SEG0007.wav,included,anaḍur i giṣfan itiri s wur waha,yes
+REC037_SEG0008,REC037,SPK002,train,vad_v1,41.016,45.576,4.56,data/processed/segments/REC037/REC037_SEG0008.wav,included,mara neɣra ṭira s ṭrifiṭ aḍaneɣ dyawi abbi ira lkawen ikmer issawar s iress enneɣ,yes
+REC037_SEG0009,REC037,SPK002,train,vad_v1,47.768,50.376,2.608,data/processed/segments/REC037/REC037_SEG0009.wav,included,nhara anxares g useqsiya,yes
+REC037_SEG0010,REC037,SPK002,train,vad_v1,52.216,54.632,2.416,data/processed/segments/REC037/REC037_SEG0010.wav,included,etband isher maca netta yuɛar,yes
+REC037_SEG0011,REC037,SPK002,train,vad_v1,57.24,58.504,1.264,data/processed/segments/REC037/REC037_SEG0011.wav,included,aseqesi iqqar,yes
+REC037_SEG0012,REC037,SPK002,train,vad_v1,59.16,64.712,5.552,data/processed/segments/REC037/REC037_SEG0012.wav,included,wac ixessaneɣ anestarjem llitrater niɣ ladab lɛalami ɣar ṭrifiṭ niɣ lla,yes
+REC037_SEG0013,REC037,SPK002,train,vad_v1,66.712,80.328,13.616,data/processed/segments/REC037/REC037_SEG0013.wav,included,rux ṭaɣimitta aḍags netxayel marra yeḍneɣ min ɣa ṭiri beddren gi wayḍuḍ nneɣ mara qqaɛ min ydjan gi l adab lɛalami aqaṭ ɣaneɣ s ṭrifiṭ s iress nneɣ translated iɛni emterjam,yes
+REC037_SEG0014,REC037,SPK002,train,vad_v1,82.296,85.768,3.472,data/processed/segments/REC037/REC037_SEG0014.wav,included,ḥuma anebda awar ixessa aneɛqeb gi zzman ad ṭkamin,yes
 REC037_SEG0015,REC037,SPK002,train,vad_v1,86.712,91.016,4.304,data/processed/segments/REC037/REC037_SEG0015.wav,included,,no
 REC037_SEG0016,REC037,SPK002,train,vad_v1,92.184,98.248,6.064,data/processed/segments/REC037/REC037_SEG0016.wav,included,,no
 REC037_SEG0017,REC037,SPK002,train,vad_v1,98.904,101.896,2.992,data/processed/segments/REC037/REC037_SEG0017.wav,included,,no
