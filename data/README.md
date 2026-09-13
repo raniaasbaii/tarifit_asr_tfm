@@ -10,4 +10,10 @@ The test composition is SPK003 (75 segments) and SPK004 (40). Source inventory t
 
 Earlier CSVs and review material are under `archive/metadata/`; they are not alternate final evaluation references. Read the recorded normalization scripts under `archive/corpus_scripts/` for implementation history; no standalone normalization guide was supplied.
 
-Audio is not bundled. See [resource access](../docs/RESOURCE_ACCESS.md). Do not regenerate final segmentation from exploratory scripts and assume it is identical to the frozen data.
+Audio is not bundled or publicly redistributed. The experimental audio
+package remains private. No permission was requested or obtained from
+the recording owners, and redistribution terms remain to be established.
+See [resource access](../docs/RESOURCE_ACCESS.md).
+
+Do not regenerate final segmentation from exploratory scripts and assume
+it is identical to the frozen data.
