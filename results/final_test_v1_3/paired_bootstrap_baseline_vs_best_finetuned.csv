@@ -1,0 +1,4 @@
+metric,finetuned_minus_baseline_pp,ci_low_pp,ci_high_pp,interpretation
+WER,3.77,1.13,6.63,MMS zero-shot baseline better
+CER,-3.0,-3.97,-2.05,Fine-tuned MMS better
+CER_no_spaces,-5.65,-6.72,-4.59,Fine-tuned MMS better

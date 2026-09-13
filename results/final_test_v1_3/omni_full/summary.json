@@ -1,0 +1,14 @@
+{
+  "wer": 0.753968253968254,
+  "cer": 0.22663832801983705,
+  "cer_no_spaces": 0.19837745516652433,
+  "model_key": "omni_full",
+  "model_name": "OmniASR-W2V-300M full V1.2",
+  "checkpoint": "/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/omniASR_w2v_300m_tarifit_v1_2/checkpoint-660",
+  "segments": 115,
+  "duration_minutes": 17.921066666666665,
+  "empty_predictions": 0,
+  "wer_percent": 75.39682539682539,
+  "cer_percent": 22.663832801983705,
+  "cer_no_spaces_percent": 19.837745516652433
+}

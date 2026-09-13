@@ -1,0 +1,17 @@
+{
+  "best_cer": 0.43267143661066004,
+  "eval_wer": 0.8596938775510204,
+  "eval_loss": 2.8712220191955566,
+  "epoch": 3.0,
+  "global_step": 330,
+  "metadata_sha256": "4911f46e0a8c3656089677b8899d8296b9e1528d8aa3633a64728eb645f28fab",
+  "base_model": "facebook/mms-1b-all",
+  "tokenizer_size": 34,
+  "augmentation": {
+    "apply_spec_augment": true,
+    "mask_time_prob": 0.05,
+    "mask_time_length": 5,
+    "mask_time_min_masks": 1,
+    "mask_feature_prob": 0.0
+  }
+}

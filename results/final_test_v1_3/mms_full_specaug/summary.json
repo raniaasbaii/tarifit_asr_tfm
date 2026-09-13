@@ -1,0 +1,14 @@
+{
+  "wer": 0.7313492063492063,
+  "cer": 0.19589089620970598,
+  "cer_no_spaces": 0.16660973526900086,
+  "model_key": "mms_full_specaug",
+  "model_name": "MMS-1B full V1.2 + SpecAugment",
+  "checkpoint": "/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/mms_1b_tarifit_v1_2_specaug/best_adapter.safetensors",
+  "segments": 115,
+  "duration_minutes": 17.921066666666665,
+  "empty_predictions": 0,
+  "wer_percent": 73.13492063492063,
+  "cer_percent": 19.589089620970597,
+  "cer_no_spaces_percent": 16.660973526900086
+}

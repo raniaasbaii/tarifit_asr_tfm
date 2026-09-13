@@ -1,0 +1,19 @@
+{
+  "model": "openai/whisper-small",
+  "mode": "zero-shot automatic language detection",
+  "segments": 115,
+  "duration_minutes": 17.921066666666665,
+  "wer_percent": 187.8968253968254,
+  "cer_percent": 166.18490967056323,
+  "cer_no_spaces_percent": 175.132365499573,
+  "script_counts": {
+    "arabic": 110,
+    "latin": 4,
+    "mixed": 1
+  },
+  "script_percent": {
+    "arabic": 95.65217391304348,
+    "latin": 3.4782608695652173,
+    "mixed": 0.8695652173913043
+  }
+}

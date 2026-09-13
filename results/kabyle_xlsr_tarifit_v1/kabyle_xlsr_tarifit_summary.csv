@@ -1,0 +1,2 @@
+experiment,initial_model,train_examples,validation_examples,learning_rate,train_batch_size,gradient_accumulation_steps,epochs,warmup_steps,weight_decay,seed,wer_percent,cer_percent,best_checkpoint,best_metric
+Kabyle-XLS-R -> Tarifit fine-tuning,Akashpb13/Kabyle_xlsr,1472,128,0.0001,2,4,10.0,100,0.005,42,100.0,251.82133914869559,,

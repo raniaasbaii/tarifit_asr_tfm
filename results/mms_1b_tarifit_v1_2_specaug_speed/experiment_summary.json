@@ -1,0 +1,108 @@
+{
+  "experiment": "MMS-1B Tarifit V1.2 adapter fine-tuning — SpecAugment + speed perturbation",
+  "base_model": "facebook/mms-1b-all",
+  "metadata_path": "/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/data/metadata/segments_metadata_v1_2_train_val_frozen.csv",
+  "metadata_sha256": "4911f46e0a8c3656089677b8899d8296b9e1528d8aa3633a64728eb645f28fab",
+  "train_segments": 1754,
+  "validation_segments": 129,
+  "train_hours_original": 5.222733593749999,
+  "validation_hours": 0.2983577777777778,
+  "tokenizer_size": 34,
+  "final_letters": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "ɛ",
+    "ɣ",
+    "ʷ",
+    "ḍ",
+    "ḥ",
+    "ṭ"
+  ],
+  "seed": 42,
+  "num_train_epochs": 4,
+  "per_device_train_batch_size": 2,
+  "gradient_accumulation_steps": 8,
+  "effective_train_batch_size": 16,
+  "learning_rate": 0.001,
+  "warmup_steps": 50,
+  "augmentation": {
+    "specaugment": {
+      "apply_spec_augment": true,
+      "mask_time_prob": 0.05,
+      "mask_time_length": 5,
+      "mask_time_min_masks": 1,
+      "mask_feature_prob": 0.0
+    },
+    "speed_perturbation": {
+      "enabled": true,
+      "factors": [
+        0.9,
+        1.0,
+        1.1
+      ],
+      "sampling": "uniform_random_per_training_example_access",
+      "validation_augmented": false
+    }
+  },
+  "best_adapter": {
+    "best_cer": 0.4343596752150494,
+    "eval_wer": 0.8562925170068028,
+    "eval_loss": 2.975424289703369,
+    "epoch": 4.0,
+    "global_step": 440,
+    "metadata_sha256": "4911f46e0a8c3656089677b8899d8296b9e1528d8aa3633a64728eb645f28fab",
+    "base_model": "facebook/mms-1b-all",
+    "tokenizer_size": 34,
+    "augmentation": {
+      "specaugment": {
+        "apply_spec_augment": true,
+        "mask_time_prob": 0.05,
+        "mask_time_length": 5,
+        "mask_time_min_masks": 1,
+        "mask_feature_prob": 0.0
+      },
+      "speed_perturbation": {
+        "enabled": true,
+        "factors": [
+          0.9,
+          1.0,
+          1.1
+        ],
+        "sampling": "uniform_random_per_training_example_access",
+        "validation_augmented": false
+      }
+    }
+  },
+  "final_validation_metrics": {
+    "validation_loss": 2.975424289703369,
+    "validation_wer": 0.8562925170068028,
+    "validation_cer": 0.4343596752150494,
+    "validation_runtime": 22.0216,
+    "validation_samples_per_second": 5.858,
+    "validation_steps_per_second": 2.952,
+    "epoch": 4.0
+  }
+}

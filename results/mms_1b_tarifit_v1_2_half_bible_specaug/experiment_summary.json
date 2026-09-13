@@ -1,0 +1,32 @@
+{
+  "experiment": "MMS-1B Tarifit V1.2 half-Bible + SpecAugment",
+  "base_model": "facebook/mms-1b-all",
+  "seed": 42,
+  "full_train_segments": 1754,
+  "full_train_hours": 5.222733333333333,
+  "half_bible_train_segments": 1041,
+  "half_bible_train_hours": 2.990989722222222,
+  "full_bible_hours": 4.638002222222221,
+  "retained_bible_hours": 2.406258611111111,
+  "retained_bible_duration_fraction": 0.5188135959879278,
+  "validation_segments": 129,
+  "training_subset_sha256": "1484ba365ec994d250825c8069aa3a3512037615c3a19ad8d07283d0048464bf",
+  "sampling": "deterministic recording-stratified duration sampling of SPK009 at ~50% per recording",
+  "specaugment": {
+    "mask_time_prob": 0.05,
+    "mask_time_length": 5,
+    "mask_feature_prob": 0.0
+  },
+  "learning_rate": 0.001,
+  "epochs": 4,
+  "effective_batch_size": 8,
+  "checkpoint_selection_metric": "CER",
+  "best_checkpoint": "/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/mms_1b_tarifit_v1_2_half_bible_specaug/checkpoint-524",
+  "best_validation_wer": 0.8473639455782312,
+  "best_validation_cer": 0.42495377441916554,
+  "space_insensitive_validation_cer": 0.4067149569303054,
+  "full_specaugment_reference_wer": 0.849915,
+  "full_specaugment_reference_cer": 0.432671,
+  "delta_wer_vs_full_specaugment": -0.002551054421768728,
+  "delta_cer_vs_full_specaugment": -0.00771722558083443
+}

@@ -1,0 +1,6 @@
+model,recorded_checkpoint,download_url,status
+MMS-1B 50% Bible + SpecAugment,/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/mms_1b_tarifit_v1_2_half_bible_specaug/checkpoint-524,,Link required; weights not bundled
+MMS-1B full V1.2 + SpecAugment,/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/mms_1b_tarifit_v1_2_specaug/best_adapter.safetensors,,Link required; weights not bundled
+Fadhma-300M full V1.2,/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/fadhma_300m_tarifit_v1_2_transfer/checkpoint-330,,Link required; weights not bundled
+OmniASR-W2V-300M full V1.2,/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/omniASR_w2v_300m_tarifit_v1_2/checkpoint-660,,Link required; weights not bundled
+Kabyle-XLS-R adapted,models/kabyle_xlsr_tarifit_v1_2_noaug_full8_corrected/best_model,,Link required; weights not bundled

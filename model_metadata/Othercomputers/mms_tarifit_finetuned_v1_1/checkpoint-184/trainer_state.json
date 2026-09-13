@@ -1,0 +1,93 @@
+{
+  "best_global_step": 184,
+  "best_metric": 85.00187476565429,
+  "best_model_checkpoint": "/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/mms_tarifit_finetuned_v1_1/checkpoint-184",
+  "epoch": 1.0,
+  "eval_steps": 500,
+  "global_step": 184,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.1358695652173913,
+      "grad_norm": 56.50157928466797,
+      "learning_rate": 0.000997802197802198,
+      "loss": 70.351982421875,
+      "step": 25
+    },
+    {
+      "epoch": 0.2717391304347826,
+      "grad_norm": 9.534135818481445,
+      "learning_rate": 0.000984065934065934,
+      "loss": 15.6092529296875,
+      "step": 50
+    },
+    {
+      "epoch": 0.4076086956521739,
+      "grad_norm": 8.441376686096191,
+      "learning_rate": 0.0009703296703296704,
+      "loss": 7.4316748046875,
+      "step": 75
+    },
+    {
+      "epoch": 0.5434782608695652,
+      "grad_norm": 7.963410377502441,
+      "learning_rate": 0.0009565934065934067,
+      "loss": 7.066262817382812,
+      "step": 100
+    },
+    {
+      "epoch": 0.6793478260869565,
+      "grad_norm": 5.85828161239624,
+      "learning_rate": 0.0009428571428571429,
+      "loss": 6.4519586181640625,
+      "step": 125
+    },
+    {
+      "epoch": 0.8152173913043478,
+      "grad_norm": 6.324361324310303,
+      "learning_rate": 0.0009291208791208791,
+      "loss": 6.40275146484375,
+      "step": 150
+    },
+    {
+      "epoch": 0.9510869565217391,
+      "grad_norm": 6.010191917419434,
+      "learning_rate": 0.0009153846153846153,
+      "loss": 6.604342651367188,
+      "step": 175
+    },
+    {
+      "epoch": 1.0,
+      "eval_cer": 46.711243549676574,
+      "eval_loss": 2.926584482192993,
+      "eval_runtime": 26.7479,
+      "eval_samples_per_second": 4.972,
+      "eval_steps_per_second": 4.972,
+      "eval_wer": 85.00187476565429,
+      "step": 184
+    }
+  ],
+  "logging_steps": 25,
+  "max_steps": 1840,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 10,
+  "save_steps": 500,
+  "stateful_callbacks": {
+    "TrainerControl": {
+      "args": {
+        "should_epoch_stop": false,
+        "should_evaluate": false,
+        "should_log": false,
+        "should_save": true,
+        "should_training_stop": false
+      },
+      "attributes": {}
+    }
+  },
+  "total_flos": 1.546307110326615e+18,
+  "train_batch_size": 1,
+  "trial_name": null,
+  "trial_params": null
+}

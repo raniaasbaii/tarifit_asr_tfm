@@ -1,0 +1,14 @@
+{
+  "wer": 0.7448412698412699,
+  "cer": 0.22727594757350336,
+  "cer_no_spaces": 0.19854824935952178,
+  "model_key": "fadhma_full",
+  "model_name": "Fadhma-300M full V1.2",
+  "checkpoint": "/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/fadhma_300m_tarifit_v1_2_transfer/checkpoint-330",
+  "segments": 115,
+  "duration_minutes": 17.921066666666665,
+  "empty_predictions": 0,
+  "wer_percent": 74.48412698412699,
+  "cer_percent": 22.727594757350335,
+  "cer_no_spaces_percent": 19.854824935952177
+}

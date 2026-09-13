@@ -1,0 +1,2 @@
+experiment,model,split,segments,decoding,language_model,orthographic_mapping,wer_percent,cer_percent
+Kabyle-XLS-R zero-shot -> Tarifit,Akashpb13/Kabyle_xlsr,clean_validation_128,128,greedy CTC,False,False,100.3338898163606,54.866327437202166
