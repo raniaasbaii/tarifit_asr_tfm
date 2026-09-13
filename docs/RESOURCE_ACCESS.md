@@ -1,13 +1,35 @@
 # Model and audio access
 
-The supplied package contains notebooks, references, source metadata, saved predictions and model/tokenizer configuration records. It does not contain trained weights or audio. Public download links have not yet been supplied or verified.
+## Model checkpoints
 
-## Before submission
+Links to five selected model exports are provided in
+[checkpoint_access.csv](../models/checkpoint_access.csv).
 
-- Add downloadable selected-checkpoint locations in `models/checkpoint_access.csv`. Include weights, matching tokenizer/processor files, configuration, and the base checkpoint identifier. MMS adapter exports also require their exact base model and adapter/head loading procedure.
-- Verify a fresh download loads and matches the recorded checkpoint. A directory containing only config/tokenizer files is insufficient.
-- Supply a permitted audio package or a documented source-reconstruction route with source URLs, segment timestamps, sample rate, stable IDs and reference transcripts. Inspect source inventory completeness; URLs may no longer resolve and reconstruction has not been tested here.
-- Document the access route for the panel if public redistribution is unavailable.
-- Choose/document a licence for the author's code and identify applicable terms for each data/model source. No blanket licence is assigned to third-party recordings by this package.
+Public access and loading from fresh downloads have not yet been verified.
+The full-data MMS SpecAugment adapter requires the original MMS backbone
+and its matching configuration and processor files.
 
-Large assets should be hosted separately and linked here rather than committed as ordinary GitHub files. The original Drive paths in JSON/CSV artifacts record provenance; they are not public download links.
+For folders containing multiple checkpoints, use the checkpoint identified
+in the access table and evaluation notebooks.
+
+## Corpus audio
+
+The corpus audio is not publicly redistributed. No permission was requested
+or obtained from tarifit.info or the owners of the other recordings.
+Source-specific redistribution terms have not yet been established.
+
+A private package contains the 1,998 experimental audio segments and
+their corresponding frozen references. The package remains restricted.
+
+Source metadata and experimental split definitions are included in the
+repository. A complete source-reconstruction workflow has not been verified.
+Access arrangements for the examination panel remain to be discussed
+with the supervisor.
+
+## Remaining work
+
+- Verify public access to the model links and loading from fresh downloads.
+- Establish the applicable source terms before distributing audio.
+- Review the terms for source-derived transcripts included in the metadata.
+- Choose a licence for the author's code separately from third-party
+  data and model licences.
