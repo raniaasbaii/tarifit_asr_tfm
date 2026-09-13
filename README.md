@@ -14,7 +14,19 @@ This project constructs a continuous-speech Tarifit corpus with Latin-script tra
 4. [Audit findings and report corrections](docs/AUDIT_NOTES.md).
 5. [Model and audio availability](docs/RESOURCE_ACCESS.md).
 
-This package supports inspection and recalculation of the saved results. Full inference/training additionally requires the audio and model checkpoints; downloadable locations have not yet been supplied. The notebooks retain their original Colab execution code and recorded outputs. They are not a newly executed, fully portable pipeline.
+This repository supports inspection and recalculation of the saved results.
+Links to five selected model exports are provided in
+[the checkpoint access table](models/checkpoint_access.csv).
+Public access and loading from fresh downloads have not yet been verified.
+
+The corpus audio is not publicly redistributed. A private experimental
+audio package has been prepared, but redistribution permissions have not
+been obtained from the recording owners. See
+[model and audio access](docs/RESOURCE_ACCESS.md) for details.
+
+The notebooks retain their original Colab execution code and recorded
+outputs. Re-execution requires the relevant resources, dependencies
+and path adjustments described in [the running instructions](docs/RUNNING.md).
 
 ## Corpus
 
