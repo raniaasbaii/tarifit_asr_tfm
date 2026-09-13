@@ -1,0 +1,62 @@
+notebook,original_cell_index,path_line
+notebooks/training/02_mms_full_specaugment.ipynb,3,"drive.mount(""/content/drive"")"
+notebooks/training/02_mms_full_specaugment.ipynb,3,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/analysis/01_training_curves.ipynb,0,"drive.mount(""/content/drive"")"
+notebooks/analysis/01_training_curves.ipynb,0,"!find /content/drive/MyDrive -name ""trainer_state.json"" 2>/dev/null"
+notebooks/analysis/01_training_curves.ipynb,1,"""/content/drive/Othercomputers/My MacBook Pro/"""
+notebooks/analysis/01_training_curves.ipynb,3,"""/content/mms_half_bible_loss_curve.png"","
+notebooks/analysis/01_training_curves.ipynb,4,"""/content/mms_half_bible_validation_metrics.png"","
+notebooks/analysis/01_training_curves.ipynb,5,"""/content/mms_training_dynamics.png"","
+notebooks/training/05_omniasr_full.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/05_omniasr_full.ipynb,2,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/training/06_omniasr_half_spk009.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/06_omniasr_half_spk009.ipynb,2,"PROJECT_ROOT = Path(""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"")"
+notebooks/preparation/01_assisted_transcription.ipynb,0,"drive.mount(""/content/drive"")"
+notebooks/preparation/01_assisted_transcription.ipynb,0,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/preparation/02_test_transcription_drafts.ipynb,0,"drive.mount(""/content/drive"")"
+notebooks/preparation/02_test_transcription_drafts.ipynb,0,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/training/03_mms_specaugment_speed.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/03_mms_specaugment_speed.ipynb,2,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/diagnostics/02_historical_kenlm.ipynb,0,"drive.mount(""/content/drive"")"
+notebooks/diagnostics/02_historical_kenlm.ipynb,0,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/diagnostics/02_historical_kenlm.ipynb,11,!rm -rf /content/kenlm
+notebooks/diagnostics/02_historical_kenlm.ipynb,11,!git clone -q https://github.com/kpu/kenlm.git /content/kenlm
+notebooks/diagnostics/02_historical_kenlm.ipynb,11,!mkdir -p /content/kenlm/build
+notebooks/diagnostics/02_historical_kenlm.ipynb,11,!cd /content/kenlm/build && cmake .. > /dev/null
+notebooks/diagnostics/02_historical_kenlm.ipynb,11,!cd /content/kenlm/build && make -j2 > /dev/null
+notebooks/diagnostics/02_historical_kenlm.ipynb,11,!CMAKE_BUILD_PARALLEL_LEVEL=2 pip install -q /content/kenlm
+notebooks/diagnostics/02_historical_kenlm.ipynb,12,"LMPLZ = ""/content/kenlm/build/bin/lmplz"""
+notebooks/diagnostics/02_historical_kenlm.ipynb,12,"BUILD_BINARY = ""/content/kenlm/build/bin/build_binary"""
+notebooks/diagnostics/02_historical_kenlm.ipynb,13,# FIX: Remove shadowing /content/kenlm namespace
+notebooks/diagnostics/02_historical_kenlm.ipynb,13,"if os.path.exists(""/content/kenlm""):"
+notebooks/diagnostics/02_historical_kenlm.ipynb,13,"shutil.rmtree(""/content/kenlm"")"
+notebooks/diagnostics/02_historical_kenlm.ipynb,13,"print(""Removed /content/kenlm"")"
+notebooks/diagnostics/02_historical_kenlm.ipynb,18,!rm -rf /content/kenlm
+notebooks/diagnostics/02_historical_kenlm.ipynb,18,!git clone -q https://github.com/kpu/kenlm.git /content/kenlm
+notebooks/diagnostics/02_historical_kenlm.ipynb,18,!mkdir -p /content/kenlm/build
+notebooks/diagnostics/02_historical_kenlm.ipynb,18,!cd /content/kenlm/build && cmake .. > /dev/null
+notebooks/diagnostics/02_historical_kenlm.ipynb,18,!cd /content/kenlm/build && make -j2 > /dev/null
+notebooks/diagnostics/02_historical_kenlm.ipynb,19,"LMPLZ = ""/content/kenlm/build/bin/lmplz"""
+notebooks/diagnostics/02_historical_kenlm.ipynb,19,"BUILD_BINARY = ""/content/kenlm/build/bin/build_binary"""
+notebooks/training/10_kabyle_xlsr_full8_noaug.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/10_kabyle_xlsr_full8_noaug.ipynb,2,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/training/10_kabyle_xlsr_full8_noaug.ipynb,2,"""/content/drive/MyDrive/tarifit_asr_tfm"""
+notebooks/evaluation/01_main_test_comparison.ipynb,1,drive.mount('/content/drive')
+notebooks/evaluation/01_main_test_comparison.ipynb,3,PROJECT_ROOT=Path('/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm')
+notebooks/evaluation/01_main_test_comparison.ipynb,40,"drive.mount(""/content/drive"")"
+notebooks/evaluation/01_main_test_comparison.ipynb,40,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/training/01_mms_full_noaug.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/01_mms_full_noaug.ipynb,2,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/training/04_mms_half_spk009.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/04_mms_half_spk009.ipynb,2,"PROJECT_ROOT=Path(""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"")"
+notebooks/evaluation/02_kabyle_xlsr_comparison.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/evaluation/02_kabyle_xlsr_comparison.ipynb,2,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/evaluation/02_kabyle_xlsr_comparison.ipynb,2,"""/content/drive/MyDrive/tarifit_asr_tfm"""
+notebooks/training/09_xlsr_full8_noaug.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/09_xlsr_full8_noaug.ipynb,2,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""
+notebooks/training/08_fadhma_quarter_spk009.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/08_fadhma_quarter_spk009.ipynb,2,"PROJECT_ROOT = Path(""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"")"
+notebooks/diagnostics/01_xlsr_specaugment_blank_collapse.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/diagnostics/01_xlsr_specaugment_blank_collapse.ipynb,2,"PROJECT_ROOT = Path(""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"")"
+notebooks/training/07_fadhma_full.ipynb,2,"drive.mount(""/content/drive"")"
+notebooks/training/07_fadhma_full.ipynb,2,"""/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm"""

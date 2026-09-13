@@ -1,0 +1,152 @@
+{
+  "best_global_step": 184,
+  "best_metric": 4.313464178983927,
+  "best_model_checkpoint": "/content/drive/Othercomputers/My MacBook Pro/tarifit_asr_tfm/models/kabyle_xlsr_tarifit_v1/checkpoint-184",
+  "epoch": 2.0,
+  "eval_steps": 500,
+  "global_step": 368,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.1358695652173913,
+      "grad_norm": 18.178691864013672,
+      "learning_rate": 2.4e-05,
+      "loss": 33.74910400390625,
+      "step": 25
+    },
+    {
+      "epoch": 0.2717391304347826,
+      "grad_norm": 8.568704605102539,
+      "learning_rate": 4.9e-05,
+      "loss": 15.2965087890625,
+      "step": 50
+    },
+    {
+      "epoch": 0.4076086956521739,
+      "grad_norm": 4.082182884216309,
+      "learning_rate": 7.4e-05,
+      "loss": 12.4028564453125,
+      "step": 75
+    },
+    {
+      "epoch": 0.5434782608695652,
+      "grad_norm": 5.194225311279297,
+      "learning_rate": 9.900000000000001e-05,
+      "loss": 11.701202392578125,
+      "step": 100
+    },
+    {
+      "epoch": 0.6793478260869565,
+      "grad_norm": 4.55597448348999,
+      "learning_rate": 9.862068965517242e-05,
+      "loss": 8.272495727539063,
+      "step": 125
+    },
+    {
+      "epoch": 0.8152173913043478,
+      "grad_norm": 3.8466219902038574,
+      "learning_rate": 9.718390804597701e-05,
+      "loss": 5.196510009765625,
+      "step": 150
+    },
+    {
+      "epoch": 0.9510869565217391,
+      "grad_norm": 4.464130878448486,
+      "learning_rate": 9.574712643678161e-05,
+      "loss": 3.7775619506835936,
+      "step": 175
+    },
+    {
+      "epoch": 1.0,
+      "eval_cer": 4.313464178983927,
+      "eval_loss": 3.6281979084014893,
+      "eval_runtime": 8.8376,
+      "eval_samples_per_second": 14.484,
+      "eval_steps_per_second": 7.242,
+      "eval_wer": 1.1256260434056762,
+      "step": 184
+    },
+    {
+      "epoch": 1.0869565217391304,
+      "grad_norm": 3.656980514526367,
+      "learning_rate": 9.431034482758621e-05,
+      "loss": 3.275914306640625,
+      "step": 200
+    },
+    {
+      "epoch": 1.2228260869565217,
+      "grad_norm": 5.46231746673584,
+      "learning_rate": 9.287356321839082e-05,
+      "loss": 2.87563720703125,
+      "step": 225
+    },
+    {
+      "epoch": 1.358695652173913,
+      "grad_norm": 3.450875759124756,
+      "learning_rate": 9.143678160919541e-05,
+      "loss": 2.7975732421875,
+      "step": 250
+    },
+    {
+      "epoch": 1.4945652173913042,
+      "grad_norm": 14.565957069396973,
+      "learning_rate": 9e-05,
+      "loss": 2.40740966796875,
+      "step": 275
+    },
+    {
+      "epoch": 1.6304347826086958,
+      "grad_norm": 3.39269757270813,
+      "learning_rate": 8.85632183908046e-05,
+      "loss": 2.6291165161132812,
+      "step": 300
+    },
+    {
+      "epoch": 1.766304347826087,
+      "grad_norm": 3.3443312644958496,
+      "learning_rate": 8.71264367816092e-05,
+      "loss": 2.3348912048339843,
+      "step": 325
+    },
+    {
+      "epoch": 1.9021739130434783,
+      "grad_norm": 3.697303056716919,
+      "learning_rate": 8.56896551724138e-05,
+      "loss": 2.3478656005859375,
+      "step": 350
+    },
+    {
+      "epoch": 2.0,
+      "eval_cer": 4.91260802843066,
+      "eval_loss": 3.6542115211486816,
+      "eval_runtime": 11.3387,
+      "eval_samples_per_second": 11.289,
+      "eval_steps_per_second": 5.644,
+      "eval_wer": 1.1227045075125208,
+      "step": 368
+    }
+  ],
+  "logging_steps": 25,
+  "max_steps": 1840,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 10,
+  "save_steps": 500,
+  "stateful_callbacks": {
+    "TrainerControl": {
+      "args": {
+        "should_epoch_stop": false,
+        "should_evaluate": false,
+        "should_log": false,
+        "should_save": true,
+        "should_training_stop": false
+      },
+      "attributes": {}
+    }
+  },
+  "total_flos": 1.0136828998303073e+18,
+  "train_batch_size": 2,
+  "trial_name": null,
+  "trial_params": null
+}

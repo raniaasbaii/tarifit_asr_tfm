@@ -1,0 +1,91 @@
+# ==========================================
+# Python
+# ==========================================
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ==========================================
+# macOS
+# ==========================================
+.DS_Store
+
+# ==========================================
+# Temporary / Google Drive files
+# ==========================================
+.tmp.driveupload/
+*.tmp
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+
+# ==========================================
+# Raw and processed audio
+# ==========================================
+data/raw/audio/
+data/processed/wav_16khz_mono/
+data/processed/segments/
+
+# Audio files anywhere else
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# ==========================================
+# Model outputs / checkpoints
+# ==========================================
+checkpoints/
+models/
+outputs/
+wandb/
+runs/
+
+# ==========================================
+# Hugging Face / ML cache
+# ==========================================
+.cache/
+huggingface/
+
+# ==========================================
+# Large generated files
+# ==========================================
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# ==========================================
+# Environment / secrets
+# ==========================================
+.env
+.env.*
+
+# ==========================================
+# Corpus source/reference text
+# ==========================================
+data/raw/source_text/
+
+# ==========================================
+# Intermediate processing / experiments
+# ==========================================
+data/interim/
+data/archive/
+data/processed/forced_alignment/
+data/processed/transcripts_raw/
+data/processed/transcripts_normalized/
+
+# ==========================================
+# Metadata backups / temporary working files
+# ==========================================
+data/metadata/backups/
+data/metadata/*before*.csv
+
+# Google Drive shortcut/metadata files
+*.gsheet
+*.gdoc

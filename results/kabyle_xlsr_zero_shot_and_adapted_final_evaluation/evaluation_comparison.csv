@@ -1,0 +1,4 @@
+system,partition,segments,wer_percent,cer_percent,empty_hypotheses,decoding,language_model,orthographic_mapping,special_tokens_removed
+Kabyle-XLS-R zero-shot,V1.2 validation,129,103.6139455782313,56.194227831819276,0,greedy CTC,False,False,True
+Kabyle-XLS-R zero-shot,V1.3 final test,115,90.43650793650794,35.44456252213956,0,greedy CTC,False,False,True
+Kabyle-XLS-R → Tarifit,V1.3 final test,115,89.28571428571429,30.371944739638685,0,greedy CTC,False,False,True

@@ -1,0 +1,10 @@
+{
+  "model_name": "MMS Tachebdant greedy baseline",
+  "model_id": "iukocha/mms-tachebdant-from-tarifit",
+  "decoder": "greedy CTC",
+  "segments": 115,
+  "duration_minutes": 17.921066666666665,
+  "wer_percent": 66.98412698412697,
+  "cer_percent": 21.96245129295076,
+  "cer_no_spaces_percent": 21.55422715627669
+}

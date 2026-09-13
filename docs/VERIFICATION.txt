@@ -1,0 +1,9 @@
+PASS: frozen hashes, 1754/129/115 rows, disjoint speakers; 19 documented training-text differences.
+PASS: selected notebook JSON parses.
+mms_greedy_baseline: 66.98%, 21.96%, 21.55% (WER, CER, CER without spaces)
+mms_half_bible_specaug: 70.75%, 18.97%, 15.91% (WER, CER, CER without spaces)
+mms_full_specaug: 73.13%, 19.59%, 16.66% (WER, CER, CER without spaces)
+fadhma_full: 74.48%, 22.73%, 19.85% (WER, CER, CER without spaces)
+omni_full: 75.40%, 22.66%, 19.84% (WER, CER, CER without spaces)
+PASS: selected MMS validation checkpoint reproduces 85.97% WER / 43.27% CER.
+Evidence checks passed. Audio, model loading, training and bootstrap reruns were not performed.

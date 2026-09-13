@@ -1,0 +1,2 @@
+model,evaluation_split,num_segments,decoding,language_model,orthographic_mapping,WER_percent,CER_percent
+agbalu/Fadhma-300M,validation,133,greedy,False,False,97.41282339707537,55.78167017951886
