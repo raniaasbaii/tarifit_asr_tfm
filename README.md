@@ -17,7 +17,11 @@ This project constructs a continuous-speech Tarifit corpus with Latin-script tra
 This repository supports inspection and recalculation of the saved results.
 Links to five selected model exports are provided in
 [the checkpoint access table](models/checkpoint_access.csv).
-Public access and loading from fresh downloads have not yet been verified.
+All five model exports passed loading, tokenizer-compatibility and forward-pass
+checks in Colab. The full-data MMS adapter required browser downloads and
+manual upload after automated downloading failed. These checks did not rerun
+recognition scores or establish equality to the historical checkpoint files.
+See the [verification notebook](notebooks/evaluation/Model_Download_Verification.ipynb).
 
 The corpus audio is not publicly redistributed. A private experimental
 audio package has been prepared, but redistribution permissions have not
