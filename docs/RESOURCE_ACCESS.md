@@ -5,7 +5,11 @@
 Links to five selected model exports are provided in
 [checkpoint_access.csv](../models/checkpoint_access.csv).
 
-Public access and loading from fresh downloads have not yet been verified.
+All five model exports passed loading, tokenizer-compatibility and forward-pass
+checks in Colab. The full-data MMS adapter required browser downloads and
+manual upload after automated downloading failed. These checks did not rerun
+recognition scores or establish equality to the historical checkpoint files.
+See the [verification notebook](../notebooks/evaluation/Model_Download_Verification.ipynb).
 The full-data MMS SpecAugment adapter requires the original MMS backbone
 and its matching configuration and processor files.
 
@@ -28,7 +32,6 @@ with the supervisor.
 
 ## Remaining work
 
-- Verify public access to the model links and loading from fresh downloads.
 - Establish the applicable source terms before distributing audio.
 - Review the terms for source-derived transcripts included in the metadata.
 - Choose a licence for the author's code separately from third-party
